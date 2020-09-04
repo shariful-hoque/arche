@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>404</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&display=swap" rel="stylesheet">
+    <!--Slick Slider-->
+    <link rel="stylesheet" href="css/slick.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="css/all.min.css">
+    <!-- Veno Box -->
+    <link rel="stylesheet" href="css/venobox.min.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Main Theme -->
+    <link rel="stylesheet" href="css/style.css">
+    <!--Responsive Css -->
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body>
+
+    <!-- ============= Header Part Start ============= -->
+    <header id=header_part>
+        <div class="container px-lg-0">
+            <div class="row">
+                <div class="col-lg-3 col-md-3">
+                    <div class="header_text">
+                        <p>Welcome to ARCHE</p>
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-9">
+                    <div class="header_inner">
+                        <ul class=" d-flex justify-content-end">
+                            <li>
+                                <p><i class="fas fa-phone-alt"></i>(+880) 1234 567 890</p>
+                            </li>
+                            <li>
+                                <p><i class="fas fa-envelope"></i>arche@gmail.com </p>
+                            </li>
+                            <li>
+                                <p><i class="fas fa-map-marker-alt"></i>1234, Parkstreet Avenue, America</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ============= Header Part End ============= -->
+
+    <!-- ============= Nav Part Start ============= -->
+    <nav class="navbar navbar-expand-md p-0 main_manu">
+        <div class="container px-lg-0">
+            <a class="navbar-brand py-lg-0" href="#"><img src="img/logo.png" alt="Logo"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav m-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Pages<i class="fas fa-sort-down"></i></a>
+                        <ul class="sub_manu">
+                            <li><a href="blog.html">Blog</a></li>
+                            <li><a href="blog_details.html">Blog Details</a></li>
+                            <li><a href="out-team.html">Team</a></li>
+                            <li><a href="member_details.html">Member Details</a></li>
+                            <li><a href="#">404</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Our Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Recent Project</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0 manu_src">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn  my-2 my-sm-0 cstm_btn_1" type="submit"><i class="fas fa-search"></i></button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <!-- ============= Nav Part End ============= -->
+
+    <!-- ============= 404 Banner =============== -->
+
+    <section id="banner_404">
+        <div class="container px-lg-0">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="banner_404_inner">
+                        <img src="img/404_img.png" class="img-fluid" alt="404">
+                        <h5>Error Page</h5>
+                        <div class="project_btn expart_btn eror_404">
+                            <a href="#">View All Experts +</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+    <!-- J-query library-->
+    <script src="js/jquery-1.12.4.min.js"></script>
+    <!--Bootstrap Poper-->
+    <script src="js/popper.min.js"></script>
+    <!--Bootstrap js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!--Slick Slider -->
+    <script src="js/slick.min.js"></script>
+    <!--Waypoints -->
+    <script src="js/waypoints.min.js"></script>
+    <!--Counter Up -->
+    <script src="js/jquery.counterup.min.js"></script>
+    <!--Veno Box -->
+    <script src="js/venobox.min.js"></script>
+
+    <!-- Main Js -->
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>

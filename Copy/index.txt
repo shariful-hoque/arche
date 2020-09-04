@@ -1,0 +1,1166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&display=swap" rel="stylesheet">
+    <!--Slick Slider-->
+    <link rel="stylesheet" href="css/slick.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="css/all.min.css">
+    <!-- Veno Box -->
+    <link rel="stylesheet" href="css/venobox.min.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Main Theme -->
+    <link rel="stylesheet" href="css/style.css">
+    <!--Responsive Css -->
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body>
+
+    <!-- ============= Header Part Start ============= -->
+    <header id=header_part>
+        <div class="container px-lg-0">
+            <div class="row">
+                <div class="col-lg-3 col-md-3">
+                    <div class="header_text">
+                        <p>Welcome to ARCHE</p>
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-9">
+                    <div class="header_inner">
+                        <ul class=" d-flex justify-content-end">
+                            <li>
+                                <p><i class="fas fa-phone-alt"></i>(+880) 1234 567 890</p>
+                            </li>
+                            <li>
+                                <p><i class="fas fa-envelope"></i>arche@gmail.com </p>
+                            </li>
+                            <li>
+                                <p><i class="fas fa-map-marker-alt"></i>1234, Parkstreet Avenue, America</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ============= Header Part End ============= -->
+
+    <!-- ============= Nav Part Start ============= -->
+    <nav class="navbar navbar-expand-md p-0 main_manu">
+        <div class="container px-lg-0">
+            <a class="navbar-brand py-lg-0" href="#"><img src="img/logo.png" alt="Logo"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav m-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Pages<i class="fas fa-sort-down"></i></a>
+                        <ul class="sub_manu">
+                            <li><a href="blog.html">Blog</a></li>
+                            <li><a href="#">Blog Details</a></li>
+                            <li><a href="#">Team</a></li>
+                            <li><a href="#">Member Details</a></li>
+                            <li><a href="#">404</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Our Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Recent Project</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0 manu_src">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn  my-2 my-sm-0 cstm_btn_1" type="submit"><i class="fas fa-search"></i></button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <!-- ============= Nav Part End ============= -->
+
+    <!-- ============= Banner Part Start ============= -->
+    <section id="banner_part">
+        <div class="banner_main_slider">
+            <div class="banner_item" style="background:url(img/banner_1.jpg)">
+                <div class="container px-lg-0">
+                    <div class="row justify-content-center text-center">
+                        <div class="col-lg-6 ">
+                            <div class="banner_text">
+                                <p>Architecture &amp; Interior</p>
+                                <h2>Modern &amp; Unique</h2>
+                                <h1>Buildings Ever</h1>
+                                <a href="#">See Projects<i class="fas fa-long-arrow-alt-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="banner_item" style="background:url(img/banner_2.jpg)">
+                <div class="container px-lg-0">
+                    <div class="row justify-content-center text-center">
+                        <div class="col-lg-6 ">
+                            <div class="banner_text">
+                                <p>Architecture &amp; Interior</p>
+                                <h2>Modern &amp; Unique</h2>
+                                <h1>Buildings Ever</h1>
+                                <a href="#">See Projects<i class="fas fa-long-arrow-alt-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="banner_item" style="background:url(img/banner_3.jpg)">
+                <div class="container px-lg-0">
+                    <div class="row justify-content-center text-center">
+                        <div class="col-lg-6 ">
+                            <div class="banner_text">
+                                <p>Architecture &amp; Interior</p>
+                                <h2>Modern &amp; Unique</h2>
+                                <h1>Buildings Ever</h1>
+                                <a href="#">See Projects<i class="fas fa-long-arrow-alt-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="banner_item" style="background:url(img/banner_1.jpg)">
+                <div class="container px-lg-0">
+                    <div class="row justify-content-center text-center">
+                        <div class="col-lg-6 ">
+                            <div class="banner_text">
+                                <p>Architecture &amp; Interior</p>
+                                <h2>Modern &amp; Unique</h2>
+                                <h1>Buildings Ever</h1>
+                                <a href="#">See Projects<i class="fas fa-long-arrow-alt-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="banner_item" style="background:url(img/banner_2.jpg)">
+                <div class="container px-lg-0">
+                    <div class="row justify-content-center text-center">
+                        <div class="col-lg-6 ">
+                            <div class="banner_text">
+                                <p>Architecture &amp; Interior</p>
+                                <h2>Modern &amp; Unique</h2>
+                                <h1>Buildings Ever</h1>
+                                <a href="#">See Projects<i class="fas fa-long-arrow-alt-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="banner_item" style="background:url(img/banner_3.jpg)">
+                <div class="container px-lg-0">
+                    <div class="row justify-content-center text-center">
+                        <div class="col-lg-6 ">
+                            <div class="banner_text">
+                                <p>Architecture &amp; Interior</p>
+                                <h2>Modern &amp; Unique</h2>
+                                <h1>Buildings Ever</h1>
+                                <a href="#">See Projects<i class="fas fa-long-arrow-alt-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="banner_sm_slider">
+            <div class="container px-lg-0 px-md-0">
+                <div class="row banner_sm_slider_inner">
+                    <div class="col-lg-4">
+                        <div class="banner_sm_border">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="banner_sm_img">
+                                        <img src="img/banner_small_1.jpg" class="img-fluid w-100" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 px-md-0">
+                                    <div class="banner_sm_text">
+                                        <h3>02</h3>
+                                        <h5>White Area House</h5>
+                                        <p>Newyork, America</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="banner_sm_border">
+                            <div class="row px-md-0">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="banner_sm_img">
+                                        <img src="img/banner_small_2.png" class="img-fluid w-100" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 px-md-0">
+                                    <div class="banner_sm_text">
+                                        <h3>03</h3>
+                                        <h5>White Area House</h5>
+                                        <p>Newyork, America</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="banner_sm_border">
+                            <div class="row px-md-0">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="banner_sm_img">
+                                        <img src="img/banner_small_3.jpg" class="img-fluid w-100" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 px-md-0">
+                                    <div class="banner_sm_text">
+                                        <h3>01</h3>
+                                        <h5>White Area House</h5>
+                                        <p>Newyork, America</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="banner_sm_border">
+                            <div class="row px-md-0">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="banner_sm_img">
+                                        <img src="img/banner_small_1.jpg" class="img-fluid w-100" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 px-md-0">
+                                    <div class="banner_sm_text">
+                                        <h3>02</h3>
+                                        <h5>White Area House</h5>
+                                        <p>Newyork, America</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="banner_sm_border">
+                            <div class="row px-md-0">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="banner_sm_img">
+                                        <img src="img/banner_small_2.png" class="img-fluid w-100" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 px-md-0">
+                                    <div class="banner_sm_text">
+                                        <h3>03</h3>
+                                        <h5>White Area House</h5>
+                                        <p>Newyork, America</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="banner_sm_border">
+                            <div class="row px-md-0">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="banner_sm_img">
+                                        <img src="img/banner_small_3.jpg" class="img-fluid w-100" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 px-md-0">
+                                    <div class="banner_sm_text">
+                                        <h3>01</h3>
+                                        <h5>White Area House</h5>
+                                        <p>Newyork, America</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ============= Banner Part End ============= -->
+
+    <!-- ============= About Part Start ============= -->
+    <section id="about_part">
+        <div class="container px-lg-0">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 about_sm_none">
+                    <div class="about_img2">
+                        <img src="img/about1.jpg" alt="About-Img" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-5 about_sm_none d-md-none d-lg-block">
+                    <div class="about_text about_img2">
+                        <h6>About Arche</h6>
+                        <h5>Know More About Arche An Architectural Web<br> Site Template</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do por incididunt ut labore et dolore magna aliqua. Ut enim ad minim iam, qstrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <a href="#">Know More</a>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-5 col-md-5 about_sm_none d-md-block d-lg-none">
+                    <div class="about_text about_img2">
+                        <h6>About Arche</h6>
+                        <h5>Know More About Arche An Architectural Web<br> Site Template</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do por incididunt ut labore et dolore magna aliqua. Ut enim ad minim iam, qstrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <a href="#">Know More</a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-3 about_sm_none">
+                    <div class="about_counter about_img2">
+                        <div class="about_counter_inner">
+                            <h3> <span class='counter'>18</span>years</h3>
+                            <p>Experiences</p>
+                        </div>
+                        <div class="about_counter_sec">
+                            <h3> <span class='counter'>250</span>Total</h3>
+                            <p>Projects Done</p>
+                        </div>
+                        <div class="about_counter_last">
+                            <h3><span class='counter'> 99</span> Almost</h3>
+                            <p>Satistfied Client</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- ======================================
+							For Mobile Version
+ 				=======================================-->
+                <div class="about_inner d-lg-none d-block d-md-none">
+                    <div class="col-12">
+                        <div class="about_img11">
+                            <img src="img/about1.jpg" alt="About-Img" class="img-fluid w-100">
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="about_text">
+                            <h6>About Arche</h6>
+                            <h5>Know More About Arche An Architectural Web Site Template</h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do por incididunt ut labore et dolore magna aliqua. Ut enim ad minim iam, qstrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        </div>
+                    </div>
+                    <div class="col-12 about_counter2">
+                        <div class="row">
+                            <div class="col">
+                                <div class="counter_before">
+                                    <h4><span class="counter">18</span>
+                                        Years Experiences</h4>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <h4><span class="counter">250</span>
+                                    Total Projects Done</h4>
+                            </div>
+                            <div class="col">
+                                <h4><span class="counter last">99</span>
+                                    Almost Satistfied Client</h4>
+                            </div>
+                        </div>
+                        <div class="row text-center">
+                            <div class="col-lg-12">
+                                <a class="all_btn order-1 order-lg-2" href="#">Know More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ======================================
+							For Mobile Version end
+ 				=======================================-->
+            </div>
+        </div>
+    </section>
+    <!-- ============= About Part End ============= -->
+
+    <!-- ============= Service Part Start ============= -->
+    <section id="service_part">
+        <div class="container px-lg-0">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-6">
+                    <div class="service_head">
+                        <h5>Our Services</h5>
+                        <p>Know About Our Services Which We’re Provided From The Year Since 2000 </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row service_slider service_none">
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-lg-7 col-md-7 sozib">
+                            <div class="service_over">
+                                <img src="img/service1.jpg" class="img-fluid ser_mar_1" alt="Service-Img">
+                                <div class="ovarly">
+                                    <h5>Architecture</h5>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="#">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5 col-md-5 service_over">
+                            <div class="service_over">
+                                <img src="img/service2.jpg" class="img-fluid ser_mar" alt="Service-Img">
+                                <div class="ovarly">
+                                    <h5>Architecture</h5>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="#">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-lg-7 col-md-7 sozib">
+                            <div class="service_over">
+                                <img src="img/service1.jpg" class="img-fluid ser_mar_1" alt="Service-Img">
+                                <div class="ovarly">
+                                    <h5>Architecture</h5>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="#">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5 col-md-5">
+                            <div class="service_over">
+                                <img src="img/service2.jpg" class="img-fluid ser_mar" alt="Service-Img">
+                                <div class="ovarly">
+                                    <h5>Architecture</h5>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="#">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-lg-7 col-md-7 sozib">
+                            <div class="service_over">
+                                <img src="img/service1.jpg" class="img-fluid ser_mar_1" alt="Service-Img">
+                                <div class="ovarly">
+                                    <h5>Architecture</h5>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="#">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5 col-md-5">
+                            <div class="service_over">
+                                <img src="img/service2.jpg" class="img-fluid ser_mar" alt="Service-Img">
+                                <div class="ovarly">
+                                    <h5>Architecture</h5>
+                                    <h4>Whole building structure we made or shape it as livelihood</h4>
+                                    <a href="#">know More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- =================== Mobile Version ================= -->
+
+            <div class="row service_slider_mv d-lg-none d-md-none">
+                <div class="col-12">
+                    <div class="mv_ser_over">
+                        <img src="img/service2.jpg" class="img-fluid w-100" alt="Service-Img">
+                        <div class="mv_ser_overly">
+                            <h5>Architecture</h5>
+                            <p>Whole building structure we made or shape it as livelihood</p>
+                            <a href="#">know More +</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="mv_ser_over">
+                        <img src="img/serv11.jpg" class="img-fluid w-100" alt="Service-Img">
+                        <div class="mv_ser_overly">
+                            <h5>Architecture</h5>
+                            <p class="ser_one">Whole building structure we made or shape it as livelihood</p>
+                            <a href="#">know More +</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="mv_ser_over">
+                        <img src="img/service2.jpg" class="img-fluid w-100" alt="Service-Img">
+                        <div class="mv_ser_overly">
+                            <h5>Architecture</h5>
+                            <p>Whole building structure we made or shape it as livelihood</p>
+                            <a href="#">know More +</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="mv_ser_over">
+                        <img src="img/serv11.jpg" class="img-fluid w-100" alt="Service-Img">
+                        <div class="mv_ser_overly">
+                            <h5>Architecture</h5>
+                            <p class="ser_one">Whole building structure we made or shape it as livelihood</p>
+                            <a href="#">know More +</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--=============== Mobile Version End ============== -->
+
+        </div>
+    </section>
+    <!-- ============= Service Part End ============= -->
+
+    <!-- ============= Project Part Start ============= -->
+    <section id="project_part">
+        <div class="container px-lg-0">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-6">
+                    <div class="project_head">
+                        <h5>Our Projects</h5>
+                        <p>The Facilities Which We Provide Professionally Are Given Below, Have A Look </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-3 col-sm-6 px-lg-0 px-md-0">
+                    <div class="project_inner">
+                        <div class="pro_img">
+                            <img src="img/project1.jpg" class="img-fluid w-100" alt="">
+                            <div class="pro_overly">
+                                <div class="pro_over_text">
+                                    <a class="venobox" data-gall="gallery01" href="img/project1.jpg">
+                                        <h5>Full Project<i class="fas fa-external-link-alt"></i></h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pro_text">
+                            <h4>Category: Architecture</h4>
+                            <h5>White House America</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 px-lg-0 px-md-0">
+                    <div class="project_inner">
+                        <div class="pro_text_2 pera">
+                            <h4>Category: Architecture</h4>
+                            <h5>White House America</h5>
+                        </div>
+                        <div class="pro_img">
+                            <img src="img/project2.jpg" class="img-fluid w-100" alt="">
+                            <div class="pro_overly text-center">
+                                <div class="pro_over_text">
+                                    <a class="venobox" data-gall="gallery01" href="img/project2.jpg">
+                                        <h5>Full Project<i class="fas fa-external-link-alt"></i></h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pro_text d-block d-lg-none d-md-none">
+                            <h4>Category: Architecture</h4>
+                            <h5>White House America</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 px-lg-0 px-md-0">
+                    <div class="project_inner">
+                        <div class="pro_img">
+                            <img src="img/project3.jpg" class="img-fluid w-100" alt="">
+                            <div class="pro_overly text-center">
+                                <div class="pro_over_text">
+                                    <a class="venobox" data-gall="gallery01" href="img/project3.jpg">
+                                        <h5>Full Project<i class="fas fa-external-link-alt"></i></h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pro_text_2">
+                            <h4>Category: Architecture</h4>
+                            <h5>White House America</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 px-lg-0 px-md-0">
+                    <div class="project_inner">
+                        <div class="pro_text_2 pera">
+                            <h4>Category: Architecture</h4>
+                            <h5>White House America</h5>
+                        </div>
+                        <div class="pro_img">
+                            <img src="img/project4.jpg" class="img-fluid w-100" alt="">
+                            <div class="pro_overly text-center">
+                                <div class="pro_over_text">
+                                    <a class="venobox" data-gall="gallery01" href="img/project4.jpg">
+                                        <h5>Full Project<i class="fas fa-external-link-alt"></i></h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pro_text_2 d-lg-none d-md-none">
+                            <h4>Category: Architecture</h4>
+                            <h5>White House America</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-4">
+                    <div class="project_btn">
+                        <a href="#">View All Project +</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ============= Project Part End ============= -->
+
+    <!-- ============= Testimonial Part Start ============= -->
+    <section id="test_part">
+        <div class="container px-lg-0">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-6">
+                    <div class="testi_head">
+                        <h5>Testimonial</h5>
+                        <p>Our Clients Feedbacks Which They Were Give Us For Our Great &amp; Professional Work </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row testi_slider testi_none_mv">
+                <div class="col-lg-12">
+                    <div class="row testi_mar">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-10 p-0">
+                                    <div class="testi_left_box">
+                                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                                        <img src="img/testi.png" class="img-fluid" alt="Testimonial">
+                                        <div class="testi_ovarly">
+                                            <h6>Morgulas Reyan</h6>
+                                            <p>Satisfied Client</p>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 p-0"></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-10 p-0">
+                                    <div class="testi_left_box">
+                                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                                        <img src="img/testi2.png" class="img-fluid" alt="Testimonial">
+                                        <div class="testi_ovarly">
+                                            <h6>Lawerus Regan</h6>
+                                            <p>Satisfied Client</p>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 p-0"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="row testi_mar">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-10 p-0">
+                                    <div class="testi_left_box">
+                                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                                        <img src="img/testi.png" class="img-fluid" alt="Testimonial">
+                                        <div class="testi_ovarly">
+                                            <h6>Morgulas Reyan</h6>
+                                            <p>Satisfied Client</p>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 p-0"></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-10 p-0">
+                                    <div class="testi_left_box">
+                                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                                        <img src="img/testi2.png" class="img-fluid" alt="Testimonial">
+                                        <div class="testi_ovarly">
+                                            <h6>Lawerus Regan</h6>
+                                            <p>Satisfied Client</p>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 p-0"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="row testi_mar">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-10 p-0">
+                                    <div class="testi_left_box">
+                                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                                        <img src="img/testi.png" class="img-fluid" alt="Testimonial">
+                                        <div class="testi_ovarly">
+                                            <h6>Morgulas Reyan</h6>
+                                            <p>Satisfied Client</p>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 p-0"></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-10 p-0">
+                                    <div class="testi_left_box">
+                                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                                        <img src="img/testi2.png" class="img-fluid" alt="Testimonial">
+                                        <div class="testi_ovarly">
+                                            <h6>Lawerus Regan</h6>
+                                            <p>Satisfied Client</p>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 p-0"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--===================================================
+                         Testimonial Part Mobile Version 
+            =====================================================-->
+
+            <div class="row testi_slider d-lg-none d-md-none">
+                <div class="col-12">
+                    <div class="testi_left_box">
+                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                        <img src="img/testi.png" class="img-fluid" alt="Testimonial">
+                        <div class="testi_ovarly">
+                            <h6>Morgulas Reyan</h6>
+                            <p>Satisfied Client</p>
+                            <ul>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="testi_left_box">
+                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                        <img src="img/testi2.png" class="img-fluid" alt="Testimonial">
+                        <div class="testi_ovarly">
+                            <h6>Lawerus Regan</h6>
+                            <p>Satisfied Client</p>
+                            <ul>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="testi_left_box">
+                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                        <img src="img/testi.png" class="img-fluid" alt="Testimonial">
+                        <div class="testi_ovarly">
+                            <h6>Morgulas Reyan</h6>
+                            <p>Satisfied Client</p>
+                            <ul>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="testi_left_box">
+                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                        <img src="img/testi2.png" class="img-fluid" alt="Testimonial">
+                        <div class="testi_ovarly">
+                            <h6>Lawerus Regan</h6>
+                            <p>Satisfied Client</p>
+                            <ul>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--===================================================
+                         Testimonial Part Mobile Version 
+            =====================================================-->
+
+        </div>
+    </section>
+    <!-- ============= Testimonial Part End ============= -->
+
+    <!-- ============= Expart Part Start ============= -->
+    <section id="expart_part">
+        <div class="container px-lg-0">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-6">
+                    <div class="expart_head">
+                        <h5>Our Experts</h5>
+                        <p>The Expert Team Members Who Are Making These Amazing &amp; Creative Sculpture</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-3 col-sm-6 px-md-0 px-lg-0">
+                    <div class="project_inner">
+                        <div class="pro_img">
+                            <img src="img/expart1.jpg" class="img-fluid w-100" alt="">
+                            <div class="pro_overly">
+                                <div class="pro_over_text">
+                                    <a class="venobox" data-gall="gallery01" href="img/expart1.jpg">
+                                        <h5>View Profile<i class="fas fa-external-link-alt"></i></h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pro_text expart_text">
+                            <h4>Marya D’cruz</h4>
+                            <h5>Architect</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 px-md-0 col-sm-6 px-lg-0">
+                    <div class="project_inner">
+                        <div class="pro_text_2 expert_mv expart_text">
+                            <h4>Ramppi Frandge</h4>
+                            <h5>Interior Designer</h5>
+                        </div>
+                        <div class="pro_img">
+                            <img src="img/expart2.jpg" class="img-fluid w-100" alt="">
+                            <div class="pro_overly text-center">
+                                <div class="pro_over_text">
+                                    <a class="venobox" data-gall="gallery01" href="img/expart2.jpg">
+                                        <h5>View Profile<i class="fas fa-external-link-alt"></i></h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pro_text d-md-none expart_text">
+                            <h4>Ramppi Frandge</h4>
+                            <h5>Interior Designer</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 px-md-0 col-sm-6 px-lg-0">
+                    <div class="project_inner">
+                        <div class="pro_img">
+                            <img src="img/expart3.jpg" class="img-fluid w-100" alt="">
+                            <div class="pro_overly text-center">
+                                <div class="pro_over_text">
+                                    <a class="venobox" data-gall="gallery01" href="img/expart3.jpg">
+                                        <h5>View Profile<i class="fas fa-external-link-alt"></i></h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pro_text_2 expart_text">
+                            <h4>Lora Ramppage</h4>
+                            <h5>Exterior Designer</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 px-md-0 col-sm-6 px-lg-0">
+                    <div class="project_inner">
+                        <div class="pro_text_2 expert_mv expart_text">
+                            <h4>Josefin Arch</h4>
+                            <h5>Architect</h5>
+                        </div>
+                        <div class="pro_img">
+                            <img src="img/expart4.jpg" class="img-fluid w-100" alt="">
+                            <div class="pro_overly text-center">
+                                <div class="pro_over_text">
+                                    <a class="venobox" data-gall="gallery01" href="img/expart4.jpg">
+                                        <h5>View Profile<i class="fas fa-external-link-alt"></i></h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pro_text d-md-none expart_text">
+                            <h4>Josefin Arch</h4>
+                            <h5>Architect</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-4">
+                    <div class="project_btn expart_btn">
+                        <a href="#">View All Experts +</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ============= Expart Part End ============= -->
+
+    <!-- ============= Blog Part Start ============= -->
+    <section id="blog_part">
+        <div class="container px-lg-0">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-6">
+                    <div class="testi_head">
+                        <h5>Latest Blogs</h5>
+                        <p>Our Recent News Are Always Seen Here for You, So You Can Read from Here.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row blog_mar">
+                <div class="col-lg-6 col-sm-6">
+                    <div class="row">
+                        <div class="col-lg-2"></div>
+                        <div class="col-lg-10">
+                            <div class="blog_img">
+                                <img src="img/blog1.jpg" class="img-fluid w-100" alt="Blog">
+                                <div class="blog_ovarly">
+                                    <p>Posted by: Admin <i class="far fa-calendar-alt"></i> 26 Oct 2018</p>
+                                    <h5>Great interior always will be simple and attractive</h5>
+                                    <a href="#">Read More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-sm-6">
+                    <div class="row">
+                        <div class="col-lg-1"></div>
+                        <div class="col-lg-10">
+                            <div class="blog_img blog_img_2">
+                                <img src="img/blog2.jpg" class="img-fluid w-100" alt="Blog">
+                                <div class="blog_ovarly">
+                                    <p>Posted by: Admin <i class="far fa-calendar-alt"></i> 26 Oct 2018</p>
+                                    <h5>Great interior always will be simple and attractive</h5>
+                                    <a href="#">Read More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--===================================================
+                         Blog Part Mobile Version 
+            =====================================================-->
+            <div class="row d-lg-none d-sm-none">
+                <div class="col-12">
+                    <div class="blog_img">
+                        <img src="img/blog1.jpg" class="img-fluid w-100" alt="Blog">
+                        <div class="blog_ovarly">
+                            <p>Posted by: Admin <i class="far fa-calendar-alt"></i> 26 Oct 2018</p>
+                            <h5>Great interior always will be simple and attractive</h5>
+                            <a href="#">Read More +</a>
+                        </div>
+                    </div>
+                    <div class="blog_img blog_mv">
+                        <img src="img/blog2.jpg" class="img-fluid w-100" alt="Blog">
+                        <div class="blog_ovarly">
+                            <p>Posted by: Admin <i class="far fa-calendar-alt"></i> 26 Oct 2018</p>
+                            <h5>Great interior always will be simple and attractive</h5>
+                            <a href="#">Read More +</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-4">
+                    <div class="project_btn blog_btn">
+                        <a href="#">View All Blogs +</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ============= Blog Part End ============= -->
+
+    <!-- ============= Footer Part Start ============= -->
+    <footer id="footer_part">
+        <div class="container px-lg-0">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12 px-md-0">
+                    <div class="footer_left">
+                        <div class="footer_logo">
+                            <img src="img/footer_logo.png" class="img-fluid" alt="Logo">
+                        </div>
+                        <div class="footer_copy">
+                            <p>&copy; Copyright 2018. All rights are reserved. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 px-md-0">
+                    <div class="footer_mid">
+                        <h5>Contact us</h5>
+                        <p>
+                            <i class="fas fa-phone-volume"></i>
+                            +880 1234 567 890
+                            <span>+880 0987 654 321</span>
+                        </p>
+                        <p class="footer_mail">
+                            <i class="fas fa-envelope"></i>
+                            archearchuitec@gmail.com
+                            <span>architect@archegmail.com</span>
+                        </p>
+                        <p>
+                            <i class="fas fa-map-marker-alt"></i>
+                            1234, Parkstreet Avenue
+                            <span>Newyork, America</span>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 px-md-0">
+                    <div class="footer_icon">
+                        <h5>Signup for Newsletter</h5>
+                        <form>
+                            <input type="email" placeholder="E-mail here">
+                            <button type="submit">Subscribe</button>
+                        </form>
+                        <h6>Get in Touch</h6>
+                        <ul>
+                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                            <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                        </ul>
+                        <p>If we miss your message, we'll message or call you back.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ============= Footer Part End ============= -->
+
+    <!-- ============= Header Part Start ============= -->
+    <!-- ============= Header Part End ============= -->
+
+    <!-- ============= Header Part Start ============= -->
+    <!-- ============= Header Part End ============= -->
+
+    <!-- ============= Header Part Start ============= -->
+    <!-- ============= Header Part End ============= -->
+
+    <!-- ============= Header Part Start ============= -->
+    <!-- ============= Header Part End ============= -->
+
+    <!-- ============= Header Part Start ============= -->
+    <!-- ============= Header Part End ============= -->
+    <!-- ============= Header Part Start ============= -->
+    <!-- ============= Header Part End ============= -->
+
+
+
+
+
+
+
+
+
+
+    <!-- J-query library-->
+    <script src="js/jquery-1.12.4.min.js"></script>
+    <!--Bootstrap Poper-->
+    <script src="js/popper.min.js"></script>
+    <!--Bootstrap js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!--Slick Slider -->
+    <script src="js/slick.min.js"></script>
+    <!--Waypoints -->
+    <script src="js/waypoints.min.js"></script>
+    <!--Counter Up -->
+    <script src="js/jquery.counterup.min.js"></script>
+    <!--Veno Box -->
+    <script src="js/venobox.min.js"></script>
+
+    <!-- Main Js -->
+    <script src="js/script.js"></script>
+</body>
+
+</html>

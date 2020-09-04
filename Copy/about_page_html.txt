@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>About Us</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&display=swap" rel="stylesheet">
+    <!--Slick Slider-->
+    <link rel="stylesheet" href="css/slick.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="css/all.min.css">
+    <!-- Veno Box -->
+    <link rel="stylesheet" href="css/venobox.min.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Main Theme -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Responsive Theme -->
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body>
+
+    <!-- ============= Header Part Start ============= -->
+    <header id=header_part>
+        <div class="container px-lg-0">
+            <div class="row">
+                <div class="col-lg-3 col-md-3">
+                    <div class="header_text">
+                        <p>Welcome to ARCHE</p>
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-9">
+                    <div class="header_inner">
+                        <ul class=" d-flex justify-content-end">
+                            <li>
+                                <p><i class="fas fa-phone-alt"></i>(+880) 1234 567 890</p>
+                            </li>
+                            <li>
+                                <p><i class="fas fa-envelope"></i>arche@gmail.com </p>
+                            </li>
+                            <li>
+                                <p><i class="fas fa-map-marker-alt"></i>1234, Parkstreet Avenue, America</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ============= Header Part End ============= -->
+
+    <!-- ============= Nav Part Start ============= -->
+    <nav class="navbar navbar-expand-md p-0 main_manu">
+        <div class="container px-lg-0">
+            <a class="navbar-brand py-lg-0" href="#"><img src="img/logo.png" alt="Logo"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav m-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Pages<i class="fas fa-sort-down"></i></a>
+                        <ul class="sub_manu">
+                            <li><a href="blog.html">Blog</a></li>
+                            <li><a href="#">Blog Details</a></li>
+                            <li><a href="#">Team</a></li>
+                            <li><a href="#">Member Details</a></li>
+                            <li><a href="#">404</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Our Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Recent Project</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0 manu_src">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn  my-2 my-sm-0 cstm_btn_1" type="submit"><i class="fas fa-search"></i></button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <!-- ============= Nav Part End ============= -->
+
+    <!-- =============About Us Start ============= -->
+    <section id="about_part_about">
+        <div class="container px-lg-0">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-4">
+                    <div class="about_text_about">
+                        <h1>About us</h1>
+                        <p>Home > <span> About us</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- =============About Us End ============= -->
+
+    <!-- ============= About Part Start ============= -->
+    <section id="about_part">
+        <div class="container px-lg-0">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 about_sm_none">
+                    <div class="about_img2">
+                        <img src="img/about1.jpg" alt="About-Img" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-5 about_sm_none d-md-none d-lg-block">
+                    <div class="about_text about_img2">
+                        <h6>About Arche</h6>
+                        <h5>Know More About Arche An Architectural Web<br> Site Template</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do por incididunt ut labore et dolore magna aliqua. Ut enim ad minim iam, qstrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed domod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</span></p>
+
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-5 about_sm_none d-md-block d-lg-none">
+                    <div class="about_text about_img2">
+                        <h6>About Arche</h6>
+                        <h5>Know More About Arche An Architectural Web<br> Site Template</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do por incididunt ut labore et dolore magna aliqua. Ut enim ad minim iam, qstrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <span class="d-md-block">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. </span></p>
+
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-3 about_sm_none">
+                    <div class="about_counter about_img2">
+                        <div class="about_counter_inner">
+                            <h3> <span class='counter'>18</span>years</h3>
+                            <p>Experiences</p>
+                        </div>
+                        <div class="about_counter_sec">
+                            <h3> <span class='counter'>250</span>Total</h3>
+                            <p>Projects Done</p>
+                        </div>
+                        <div class="about_counter_last">
+                            <h3><span class='counter'> 99</span> Almost</h3>
+                            <p>Satistfied Client</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- ======================================
+							For Mobile Version
+ 				=======================================-->
+                <div class="about_inner d-lg-none d-block d-md-none">
+                    <div class="col-12">
+                        <div class="about_img11">
+                            <img src="img/about1.jpg" alt="About-Img" class="img-fluid w-100">
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="about_text">
+                            <h6>About Arche</h6>
+                            <h5>Know More About Arche An Architectural Web Site Template</h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do por incididunt ut labore et dolore magna aliqua. Ut enim ad minim iam, qstrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit.<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed domod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</span></p>
+                        </div>
+                    </div>
+                    <div class="col-12 about_counter2">
+                        <div class="row">
+                            <div class="col">
+                                <div class="counter_before">
+                                    <h4><span class="counter">18</span>
+                                        Years Experiences</h4>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <h4><span class="counter">250</span>
+                                    Total Projects Done</h4>
+                            </div>
+                            <div class="col">
+                                <h4><span class="counter last">99</span>
+                                    Almost Satistfied Client</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ======================================
+							For Mobile Version end
+ 				=======================================-->
+            </div>
+        </div>
+    </section>
+    <!-- ============= About Part End ============= -->
+
+    <!-- ============= About More Part Start ============= -->
+
+    <section id="about_more_part">
+        <div class="container px-lg-0">
+            <div class="row">
+                <div class="col-lg-5 col-md-6 pr-md-0 about_more_none">
+                    <div class="about_more_text">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do por incididunt ut labore et dolore magna aliqua. Ut enim ad minim iam, qstrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span class="about_more_none02"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed domod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</span> <span class="about_more_none02 about_more_none03">ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</span></p>
+                    </div>
+                </div>
+                <div class="col-lg-1 about_more_none02 px-md-0 about_more_none"></div>
+                <div class="col-lg-3 col-6 col-md-3">
+                    <div class="about_more_img01">
+                        <img src="img/about_us_inner_01.jpg" class="img-fluid w-100" alt="About-more">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-6 col-md-3">
+                    <div class="about_more_img02">
+                        <img src="img/about_us_inner_02.jpg" class="img-fluid w-100" alt="About-More">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============= About More Part End ============= -->
+
+    <!-- ============= Expart Part Start ============= -->
+    <section id="expart_part">
+        <div class="container px-lg-0">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-6">
+                    <div class="expart_head">
+                        <h5>Our Experts</h5>
+                        <p>The Expert Team Members Who Are Making These Amazing &amp; Creative Sculpture</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-3 col-sm-6 px-md-0 px-lg-0">
+                    <div class="project_inner">
+                        <div class="pro_img">
+                            <img src="img/expart1.jpg" class="img-fluid w-100" alt="">
+                            <div class="pro_overly">
+                                <div class="pro_over_text">
+                                    <a class="venobox" data-gall="gallery01" href="img/expart1.jpg">
+                                        <h5>View Profile<i class="fas fa-external-link-alt"></i></h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pro_text expart_text">
+                            <h4>Marya D’cruz</h4>
+                            <h5>Architect</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 px-md-0 col-sm-6 px-lg-0">
+                    <div class="project_inner">
+                        <div class="pro_text_2 expert_mv expart_text">
+                            <h4>Ramppi Frandge</h4>
+                            <h5>Interior Designer</h5>
+                        </div>
+                        <div class="pro_img">
+                            <img src="img/expart2.jpg" class="img-fluid w-100" alt="">
+                            <div class="pro_overly text-center">
+                                <div class="pro_over_text">
+                                    <a class="venobox" data-gall="gallery01" href="img/expart2.jpg">
+                                        <h5>View Profile<i class="fas fa-external-link-alt"></i></h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pro_text d-md-none expart_text">
+                            <h4>Ramppi Frandge</h4>
+                            <h5>Interior Designer</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 px-md-0 col-sm-6 px-lg-0">
+                    <div class="project_inner">
+                        <div class="pro_img">
+                            <img src="img/expart3.jpg" class="img-fluid w-100" alt="">
+                            <div class="pro_overly text-center">
+                                <div class="pro_over_text">
+                                    <a class="venobox" data-gall="gallery01" href="img/expart3.jpg">
+                                        <h5>View Profile<i class="fas fa-external-link-alt"></i></h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pro_text_2 expart_text">
+                            <h4>Lora Ramppage</h4>
+                            <h5>Exterior Designer</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 px-md-0 col-sm-6 px-lg-0">
+                    <div class="project_inner">
+                        <div class="pro_text_2 expert_mv expart_text">
+                            <h4>Josefin Arch</h4>
+                            <h5>Architect</h5>
+                        </div>
+                        <div class="pro_img">
+                            <img src="img/expart4.jpg" class="img-fluid w-100" alt="">
+                            <div class="pro_overly text-center">
+                                <div class="pro_over_text">
+                                    <a class="venobox" data-gall="gallery01" href="img/expart4.jpg">
+                                        <h5>View Profile<i class="fas fa-external-link-alt"></i></h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pro_text d-md-none expart_text">
+                            <h4>Josefin Arch</h4>
+                            <h5>Architect</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-4">
+                    <div class="project_btn expart_btn">
+                        <a href="#">View All Experts +</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ============= Expart Part End ============= -->
+
+    <!-- ============= Testimonial Part Start ============= -->
+    <section id="test_part">
+        <div class="container px-lg-0">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-6">
+                    <div class="testi_head">
+                        <h5>Testimonial</h5>
+                        <p>Our Clients Feedbacks Which They Were Give Us For Our Great &amp; Professional Work </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row testi_slider testi_none_mv">
+                <div class="col-lg-12">
+                    <div class="row testi_mar">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-10 p-0">
+                                    <div class="testi_left_box">
+                                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                                        <img src="img/testi.png" class="img-fluid" alt="Testimonial">
+                                        <div class="testi_ovarly">
+                                            <h6>Morgulas Reyan</h6>
+                                            <p>Satisfied Client</p>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 p-0"></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-10 p-0">
+                                    <div class="testi_left_box">
+                                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                                        <img src="img/testi2.png" class="img-fluid" alt="Testimonial">
+                                        <div class="testi_ovarly">
+                                            <h6>Lawerus Regan</h6>
+                                            <p>Satisfied Client</p>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 p-0"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="row testi_mar">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-10 p-0">
+                                    <div class="testi_left_box">
+                                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                                        <img src="img/testi.png" class="img-fluid" alt="Testimonial">
+                                        <div class="testi_ovarly">
+                                            <h6>Morgulas Reyan</h6>
+                                            <p>Satisfied Client</p>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 p-0"></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-10 p-0">
+                                    <div class="testi_left_box">
+                                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                                        <img src="img/testi2.png" class="img-fluid" alt="Testimonial">
+                                        <div class="testi_ovarly">
+                                            <h6>Lawerus Regan</h6>
+                                            <p>Satisfied Client</p>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 p-0"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="row testi_mar">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-10 p-0">
+                                    <div class="testi_left_box">
+                                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                                        <img src="img/testi.png" class="img-fluid" alt="Testimonial">
+                                        <div class="testi_ovarly">
+                                            <h6>Morgulas Reyan</h6>
+                                            <p>Satisfied Client</p>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 p-0"></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-10 p-0">
+                                    <div class="testi_left_box">
+                                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                                        <img src="img/testi2.png" class="img-fluid" alt="Testimonial">
+                                        <div class="testi_ovarly">
+                                            <h6>Lawerus Regan</h6>
+                                            <p>Satisfied Client</p>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 p-0"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--===================================================
+                         Testimonial Part Mobile Version 
+            =====================================================-->
+
+            <div class="row testi_slider d-lg-none d-md-none">
+                <div class="col-12">
+                    <div class="testi_left_box">
+                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                        <img src="img/testi.png" class="img-fluid" alt="Testimonial">
+                        <div class="testi_ovarly">
+                            <h6>Morgulas Reyan</h6>
+                            <p>Satisfied Client</p>
+                            <ul>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="testi_left_box">
+                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                        <img src="img/testi2.png" class="img-fluid" alt="Testimonial">
+                        <div class="testi_ovarly">
+                            <h6>Lawerus Regan</h6>
+                            <p>Satisfied Client</p>
+                            <ul>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="testi_left_box">
+                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                        <img src="img/testi.png" class="img-fluid" alt="Testimonial">
+                        <div class="testi_ovarly">
+                            <h6>Morgulas Reyan</h6>
+                            <p>Satisfied Client</p>
+                            <ul>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="testi_left_box">
+                        <p>Lorem ipsum dolor sit amet, consecteturdipisicing elit, sed dor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullapmco laboris.</p>
+                        <img src="img/testi2.png" class="img-fluid" alt="Testimonial">
+                        <div class="testi_ovarly">
+                            <h6>Lawerus Regan</h6>
+                            <p>Satisfied Client</p>
+                            <ul>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                                <li><i class="fas fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--===================================================
+                         Testimonial Part Mobile Version 
+            =====================================================-->
+
+        </div>
+    </section>
+    <!-- ============= Testimonial Part End ============= -->
+
+    <!-- ============= Footer Part Start ============= -->
+    <footer id="footer_part">
+        <div class="container px-lg-0">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12 px-md-0">
+                    <div class="footer_left">
+                        <div class="footer_logo">
+                            <img src="img/footer_logo.png" class="img-fluid" alt="Logo">
+                        </div>
+                        <div class="footer_copy">
+                            <p>&copy; Copyright 2018. All rights are reserved. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 px-md-0">
+                    <div class="footer_mid">
+                        <h5>Contact us</h5>
+                        <p>
+                            <i class="fas fa-phone-volume"></i>
+                            +880 1234 567 890
+                            <span>+880 0987 654 321</span>
+                        </p>
+                        <p class="footer_mail">
+                            <i class="fas fa-envelope"></i>
+                            archearchuitec@gmail.com
+                            <span>architect@archegmail.com</span>
+                        </p>
+                        <p>
+                            <i class="fas fa-map-marker-alt"></i>
+                            1234, Parkstreet Avenue
+                            <span>Newyork, America</span>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 px-md-0">
+                    <div class="footer_icon">
+                        <h5>Signup for Newsletter</h5>
+                        <form>
+                            <input type="email" placeholder="E-mail here">
+                            <button type="submit">Subscribe</button>
+                        </form>
+                        <h6>Get in Touch</h6>
+                        <ul>
+                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                            <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                        </ul>
+                        <p>If we miss your message, we'll message or call you back.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ============= Footer Part End ============= -->
+
+    <!-- J-query library-->
+    <script src="js/jquery-1.12.4.min.js"></script>
+    <!--Bootstrap Poper-->
+    <script src="js/popper.min.js"></script>
+    <!--Bootstrap js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!--Slick Slider -->
+    <script src="js/slick.min.js"></script>
+    <!--Waypoints -->
+    <script src="js/waypoints.min.js"></script>
+    <!--Counter Up -->
+    <script src="js/jquery.counterup.min.js"></script>
+    <!--Veno Box -->
+    <script src="js/venobox.min.js"></script>
+
+    <!-- Main Js -->
+    <script src="js/script.js"></script>
+</body>
+
+</html>

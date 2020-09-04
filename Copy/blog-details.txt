@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Blog Details</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&display=swap" rel="stylesheet">
+    <!--Slick Slider-->
+    <link rel="stylesheet" href="css/slick.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="css/all.min.css">
+    <!-- Veno Box -->
+    <link rel="stylesheet" href="css/venobox.min.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Main Theme -->
+    <link rel="stylesheet" href="css/style.css">
+    <!--Responsive Css -->
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body>
+
+    <!-- ============= Header Part Start ============= -->
+    <header id=header_part>
+        <div class="container px-lg-0">
+            <div class="row">
+                <div class="col-lg-3 col-md-3">
+                    <div class="header_text">
+                        <p>Welcome to ARCHE</p>
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-9">
+                    <div class="header_inner">
+                        <ul class=" d-flex justify-content-end">
+                            <li>
+                                <p><i class="fas fa-phone-alt"></i>(+880) 1234 567 890</p>
+                            </li>
+                            <li>
+                                <p><i class="fas fa-envelope"></i>arche@gmail.com </p>
+                            </li>
+                            <li>
+                                <p><i class="fas fa-map-marker-alt"></i>1234, Parkstreet Avenue, America</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ============= Header Part End ============= -->
+
+    <!-- ============= Nav Part Start ============= -->
+    <nav class="navbar navbar-expand-md p-0 main_manu">
+        <div class="container px-lg-0">
+            <a class="navbar-brand py-lg-0" href="#"><img src="img/logo.png" alt="Logo"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav m-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Pages<i class="fas fa-sort-down"></i></a>
+                        <ul class="sub_manu">
+                            <li><a href="blog.html">Blog</a></li>
+                            <li><a href="#">Blog Details</a></li>
+                            <li><a href="#">Team</a></li>
+                            <li><a href="#">Member Details</a></li>
+                            <li><a href="#">404</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Our Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Recent Project</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0 manu_src">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn  my-2 my-sm-0 cstm_btn_1" type="submit"><i class="fas fa-search"></i></button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <!-- ============= Nav Part End ============= -->
+
+    <!-- =============Blog Banner Start ============= -->
+    <section id="about_part_about">
+        <div class="container px-lg-0">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-4">
+                    <div class="about_text_about">
+                        <h1>Blog Details</h1>
+                        <p>Home > <span> Blog Details</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- =============Blog Banner End ============= -->
+
+    <!-- ============= Great Arche Part Start ============= -->
+
+    <section id="great_arche_part">
+        <div class="container px-lg-0">
+            <div class="row">
+                <div class="col-lg-12 col">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="great_arche_text">
+                                <h2>Great architecture always be simple, Great and attractive</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-8 great_arche_inner">
+                            <div class="row">
+                                <div class="col-lg-3 col-4 pr-0 col-sm-3">
+                                    <div class="great_arche_calender">
+                                        <p><i class="far fa-calendar-alt"></i>26 Oct 2018</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-9 col-8 col-sm-9 pl-0">
+                                    <div class="great_arche_like">
+                                        <p>
+                                            <span><i class="far fa-eye"></i>2.5k Views</span>
+                                            <span><i class="fas fa-thumbs-up"></i> 5.2k Likes</span>
+                                            <span><i class="fas fa-comments"></i> 4.7k Comments</span>
+                                            <span><i class="fas fa-share-alt"></i> 1.2k Shares</span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12 col-sm-12 p-sm-0">
+                            <div class="great_arche_img">
+                                <img src="img/great_arche01.jpg" class="img-fluid w-100" alt="Great Arche">
+                            </div>
+                        </div>
+                        <div class="row justify-content-center">
+                            <div class="col-lg-10 col-12">
+                                <div class="great_arche_img_text">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus. <span>error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</span></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 px-lg-0 p-sm-0">
+                            <div class="great_arche_img_middl">
+                                <p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.”</p>
+                            </div>
+                        </div>
+                        <div class="row justify-content-center">
+                            <div class="col-lg-10">
+                                <div class="great_arche_img_text02">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-10">
+                                <div class="row">
+                                    <div class="col-lg-6 py-lg-0">
+                                        <div class="great_arche_text_03">
+                                            <p><i class="fas fa-check-circle"></i> Lorem ipsum dolor sit amet, Sed ut perspiciatis unde omnis iste</p>
+                                            <p><i class="fas fa-check-circle"></i> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <p><i class="fas fa-check-circle"></i> Lorem ullamco laboris nisi ut ex ea commodo consequat.</p>
+                                            <p><i class="fas fa-check-circle"></i> Lorem ullamco laboris nisi ut ex ea commodo consequat.</p>
+                                            <p><i class="fas fa-check-circle"></i> Exceteur sint occaecat roident sunt in cula ui officia.</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 py-lg-0">
+                                        <div class="great_arche_text_03">
+                                            <p><i class="fas fa-check-circle"></i> Lorem ipsum dolor sit amet, Sed ut perspiciatis unde omnis iste</p>
+                                            <p><i class="fas fa-check-circle"></i> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <p><i class="fas fa-check-circle"></i> Lorem ullamco laboris nisi ut ex ea commodo consequat.</p>
+                                            <p><i class="fas fa-check-circle"></i> Lorem ullamco laboris nisi ut ex ea commodo consequat.</p>
+                                            <p><i class="fas fa-check-circle"></i> Exceteur sint occaecat roident sunt in cula ui officia.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12 col-6 py-lg-0 p-md-0 tag_none">
+                            <div class="great_arche_tag">
+                                <ul>
+                                    <li>
+                                        <p>Tags:</p>
+                                    </li>
+                                    <li><a href="#">Blog</a></li>
+                                    <li class="blog_none"><a href="#">Blog Details</a></li>
+                                    <li class="blog_none"><a href="#">Single Blog</a></li>
+                                    <li><a href="#">Details</a></li>
+                                    <li><a href="#">Describe</a></li>
+                                    <li class="blog_none"><a href="#">Full View</a></li>
+                                    <li><a href="#">Corporate</a></li>
+                                    <li><a href="#">Business</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 py-lg-0 p-md-0">
+                            <div class="great_arche_tag_icon">
+                                <ul>
+                                    <li>
+                                        <p>Share:</p>
+                                    </li>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============= Great ArchePart End ============= -->
+
+    <!-- ============= Comment Box Part Start ============= -->
+
+    <section id="comment_box">
+        <div class="container px-lg-0 px-md-0">
+            <div class="row">
+                <div class="col-lg-6 py-lg-0">
+                    <div class="comment_box_head">
+                        <p>14 Comments</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-2 col-md-2 col-3 pr-lg-0 pr-0">
+                            <div class="comment_box_img">
+                                <img src="img/01.jpg" class="img-fluid " alt="Commenter">
+                            </div>
+                        </div>
+                        <div class="col-lg-10 col-md-10 col-9 ">
+                            <div class="comment_box_comments">
+                                <h6>Alex Jone <span>Posted on: 26 October 2018</span></h6>
+                                <p>hen after before symphony book.Lorem Ipsum has beenry's staay text ever since the.Lom Isum is simly.</p>
+                                <h5><i class="fas fa-reply-all"></i> Reply</h5>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 pl-lg-0"></div>
+                        <div class="col-lg-2 col-md-2 pr-0 col-3 pr-lg-0">
+                            <div class="comment_box_img">
+                                <img src="img/02.jpg" class="img-fluid" alt="Commenter">
+                            </div>
+                        </div>
+                        <div class="col-lg-8 col-md-8 col-9">
+                            <div class="comment_box_comments">
+                                <h6>Bradish alex <span>Posted on: 26 October 2017</span></h6>
+                                <p>hen after before symphony book.Lorem Ipsuas beenry's staardummy text ever since the.Loum is simply dummy text of thenting.</p>
+                                <h5><i class="fas fa-reply-all"></i> Reply</h5>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-2 col-3 pr-0 pr-lg-0">
+                            <div class="comment_box_img">
+                                <img src="img/03.jpg" class="img-fluid " alt="Commenter">
+                            </div>
+                        </div>
+                        <div class="col-lg-10 col-md-10 col-9">
+                            <div class="comment_box_comments">
+                                <h6>Alex Jone <span>Posted on: 26 October 2018</span></h6>
+                                <p>hen after before symphony book.Lorem Ipsum has beenry's staay text ever since the.Lom Isum is simly.</p>
+                                <h5><i class="fas fa-reply-all"></i> Reply</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="comment_box_head">
+                        <p>Leave A Reply</p>
+                        <form>
+                            <div class="blog_from">
+                                <input type="text" placeholder="Name">
+                                <input type="email" placeholder="E-mail">
+                            </div>
+                            <textarea placeholder="Your Message"></textarea>
+                            <button type="submit">Submit</button>
+                        </form>
+                        <p class="comment_fb">Or Login with <a href="#">Facebook</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============= Comment Box Part End ============= -->
+
+    <!-- ============= Footer Part Start ============= -->
+    <footer id="footer_part">
+        <div class="container px-lg-0">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12 px-md-0">
+                    <div class="footer_left">
+                        <div class="footer_logo">
+                            <img src="img/footer_logo.png" class="img-fluid" alt="Logo">
+                        </div>
+                        <div class="footer_copy">
+                            <p>&copy; Copyright 2018. All rights are reserved. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 px-md-0">
+                    <div class="footer_mid">
+                        <h5>Contact us</h5>
+                        <p>
+                            <i class="fas fa-phone-volume"></i>
+                            +880 1234 567 890
+                            <span>+880 0987 654 321</span>
+                        </p>
+                        <p class="footer_mail">
+                            <i class="fas fa-envelope"></i>
+                            archearchuitec@gmail.com
+                            <span>architect@archegmail.com</span>
+                        </p>
+                        <p>
+                            <i class="fas fa-map-marker-alt"></i>
+                            1234, Parkstreet Avenue
+                            <span>Newyork, America</span>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 px-md-0">
+                    <div class="footer_icon">
+                        <h5>Signup for Newsletter</h5>
+                        <form>
+                            <input type="email" placeholder="E-mail here">
+                            <button type="submit">Subscribe</button>
+                        </form>
+                        <h6>Get in Touch</h6>
+                        <ul>
+                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                            <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                        </ul>
+                        <p>If we miss your message, we'll message or call you back.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ============= Footer Part End ============= -->
+
+    <!-- J-query library-->
+    <script src="js/jquery-1.12.4.min.js"></script>
+    <!--Bootstrap Poper-->
+    <script src="js/popper.min.js"></script>
+    <!--Bootstrap js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!--Slick Slider -->
+    <script src="js/slick.min.js"></script>
+    <!--Waypoints -->
+    <script src="js/waypoints.min.js"></script>
+    <!--Counter Up -->
+    <script src="js/jquery.counterup.min.js"></script>
+    <!--Veno Box -->
+    <script src="js/venobox.min.js"></script>
+
+    <!-- Main Js -->
+    <script src="js/script.js"></script>
+</body>
+
+</html>

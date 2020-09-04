@@ -1,0 +1,2529 @@
+@media (min-width:1200px) {}
+
+@media(min-width: 992px) and (max-width:1199px) {
+
+    /*** ====================================
+                    Hope Page
+    =====================================***/
+
+    /*****============ Manu Part ================ ***/
+
+    .main_manu .navbar-nav {
+        margin-right: 135px !important;
+    }
+
+    .main_manu .navbar-nav .nav-item .nav-link {
+        padding-right: 30px;
+    }
+
+    .main_manu .manu_src:hover input {
+        width: 96px;
+    }
+
+    .main_manu .manu_src input {
+        width: 90px;
+    }
+
+    .main_manu .navbar-nav .nav-item .nav-link i {
+        right: 16px;
+        bottom: 15px;
+    }
+
+    /*****============ Manu Part ================ ***/
+
+    .banner_text h2 {
+        font-size: 50px;
+    }
+
+    .banner_sm_text h3 {
+        padding-top: 0px;
+    }
+
+    /*****============ Service Part ================ ***/
+
+    .service_over .ovarly h4 {
+        font-size: 21px;
+        padding-left: 0px;
+    }
+
+    .service_over .ovarly a {
+        font-size: 18px;
+    }
+
+    .service_over .ovarly {
+        width: 349px;
+        right: -32px;
+        bottom: -30px;
+        padding: 20px 20px 20px 0px;
+    }
+
+    .service_over .ovarly h4 {
+        padding-left: 0px;
+    }
+
+    .sozib {
+        padding-right: 25px;
+    }
+
+    /*****============ Project Part ================ ***/
+
+    .project_inner .pro_text_2 h5 {
+        font-size: 18px;
+    }
+
+    .pro_text {
+        padding-left: 10px;
+    }
+
+    /*****============ Testimonial Part ================ ***/
+
+    .testi_left_box {
+        padding: 60px 38px 30px 23px;
+        background: #f5f5f5;
+        position: relative;
+        margin-left: 13px;
+    }
+
+    .testi_left_box .testi_ovarly {
+        width: 215px;
+        padding: 20px 0px 11px 19px;
+        right: -82px;
+    }
+
+    .testi_left_box .testi_ovarly h6 {
+        font-size: 18px;
+    }
+
+    .testi_left_box .testi_ovarly p {
+        font-size: 15px;
+    }
+
+    .testi_ovarly ul li {
+        font-size: 14px;
+    }
+
+    .pro_img .pro_overly a h5 i {
+        margin-left: 8px;
+    }
+
+    .footer_logo {
+        text-align: center;
+    }
+
+    .footer_left .footer_logo img {
+        padding-left: 0px;
+    }
+
+    .footer_copy p {
+        padding-top: 30px;
+        text-align: center;
+    }
+
+    .footer_icon form input {
+        width: 200px;
+    }
+
+    /*** ===============================================
+                        About Us Page
+    =================================================***/
+
+    .about_more_none03 {
+        display: none !important;
+    }
+
+    #about_more_part {
+        padding: 80px 0;
+    }
+
+
+    /*================================================
+                        Blog Page Details
+    =================================================*/
+
+    /*** ============= Great Arche Part Start ============**/
+
+    .great_arche_tag ul li p {
+        padding-left: 17px;
+    }
+
+    .great_arche_tag_icon ul li p {
+        padding-left: 17px;
+    }
+
+    #great_arche_part {
+        padding: 94px 0 40px;
+    }
+
+    .comment_box_head form input {
+        width: 220px;
+        padding-left: 10px;
+    }
+
+    .comment_box_head form textarea {
+        width: 97.7%;
+        padding-left: 10px;
+    }
+
+    .comment_box_head form button {
+        width: 97.9%;
+    }
+
+    /*** ====================================
+                    Member Part Page
+    =====================================***/
+
+    .member_text p {
+        padding-bottom: 0px;
+    }
+
+    .member_text p span {
+        padding-top: 14px;
+    }
+
+    .member_text p {
+        font-size: 16px;
+        padding-top: 3px;
+    }
+
+    .member_counter .about_counter_inner {
+        padding-bottom: 18px;
+    }
+
+    /*** ================================================
+                    Service Details Page
+    ==================================================***/
+
+    .service_details_overly {
+        width: 800px;
+    }
+
+    .ok h1 {
+        font-size: 39px !important;
+    }
+
+    /*===================================================================
+                                Contact Us Part Page
+    ====================================================================*/
+
+    .contact_text p {
+        font-size: 14px;
+    }
+
+    .contact_text {
+        padding: 20px 0 0px;
+    }
+
+    .contact_inner h5 {
+        padding-bottom: 0px;
+    }
+
+    .contact_inner form textarea {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .contact_inner form button {
+        padding: 10px 0;
+        font-size: 17px;
+    }
+
+    .contact_img a {
+        left: -50px;
+    }
+
+
+
+
+    /*****============ Project Part ================ ***/
+    /*****============ Project Part ================ ***/
+    /*****============ Project Part ================ ***/
+    /*****============ Project Part ================ ***/
+    /*****============ Project Part ================ ***/
+    /*****============ Project Part ================ ***/
+}
+
+@media(min-width: 768px) and (max-width:991px) {
+
+    /*** ====================================
+                    Hope Page
+    =====================================***/
+
+    /*****============ Header Part ================ ***/
+
+    .header_text p {
+        font-size: 12px;
+    }
+
+    .header_inner li p {
+        font-size: 12px;
+    }
+
+    .header_inner li {
+        padding-right: 16px;
+    }
+
+    .header_inner ul {}
+
+    .header_inner li {
+        padding-right: 33px;
+        margin-left: 11px;
+        margin-right: -32px;
+    }
+
+    /*****============ Manu Part ================ ***/
+
+    .manu_src {
+        display: none;
+    }
+
+    .main_manu .navbar-nav {
+        margin-left: 0px;
+        margin-right: -20px !important;
+    }
+
+    .main_manu {
+        height: 120px;
+    }
+
+    .main_manu .navbar-nav .nav-item .nav-link {
+        font-size: 14px;
+        padding-right: 20px;
+    }
+
+    .main_manu .navbar-nav .nav-item .nav-link i {
+        position: absolute;
+        right: 8px;
+        bottom: 14px;
+    }
+
+    .main_manu .navbar-nav .nav-item:hover .sub_manu {
+        opacity: 1;
+        bottom: -268px;
+        visibility: visible;
+    }
+
+    .navbar-brand img {
+        height: 80px;
+    }
+
+    /*****============ Banner Part ================ ***/
+
+    .banner_sm_text h3 {
+        font-size: 20px;
+        padding-top: 0;
+    }
+
+    .banner_sm_text h5 {
+        font-size: 13px;
+    }
+
+    .banner_sm_text p {
+        font-size: 13px;
+    }
+
+    /*****============ Header Part ================ ***/
+
+    .about_md_none {
+        display: block;
+    }
+
+    .about_text {
+        padding: 50px 0 0px;
+    }
+
+    .about_text h6 {
+        padding-bottom: 9px;
+    }
+
+    .about_text h5 {
+        font-size: 21px;
+        line-height: 30px;
+        padding-bottom: 0px;
+    }
+
+    .about_text p {
+        font-size: 16px;
+        padding-right: 0px;
+    }
+
+    .about_counter_inner h3 span {
+        font-size: 30px;
+    }
+
+    .about_counter {
+        padding: 48px 0 0;
+    }
+
+    .about_counter_inner p {
+        font-size: 16px;
+    }
+
+    .about_counter_inner {
+        padding-bottom: 4px;
+    }
+
+    .about_counter_inner h3 {
+        font-size: 16px;
+    }
+
+    .about_counter_sec h3 span {
+        font-size: 30px;
+    }
+
+    .about_counter_sec h3 {
+        font-size: 16px;
+    }
+
+    .about_counter_sec p {
+        font-size: 16px;
+    }
+
+    .about_counter_sec {
+        padding: 24px 0 14px;
+    }
+
+    .about_counter_last h3 span {
+        font-size: 30px;
+        padding-right: 23px;
+    }
+
+    .about_counter_last h3 {
+        font-size: 16px;
+    }
+
+    .about_counter_last p {
+        font-size: 16px;
+        margin-top: -11px;
+    }
+
+    /*****============ Service Part ================ ***/
+
+    .service_head p {
+        font-size: 22px;
+    }
+
+    .service_over .ovarly h5 {
+        font-size: 14px;
+    }
+
+    .service_over .ovarly h4 {
+        font-size: 16px;
+        padding-left: 0px;
+    }
+
+    .service_over .ovarly a {
+        font-size: 16px;
+        line-height: 40px;
+    }
+
+    .service_over .ovarly a:hover::after {
+        height: 40px;
+    }
+
+    .service_over .ovarly {
+        width: 270px;
+        padding: 10px;
+    }
+
+    #service_part ul.slick-dots {
+        bottom: -80px;
+    }
+
+    #service_part {
+        padding: 60px 0 133px;
+    }
+
+    /*****============ Project Part ================ ***/
+
+    .project_head p {
+        font-size: 22px;
+    }
+
+    .project_inner .pro_text_2 h4 {
+        font-size: 12px;
+    }
+
+    .project_inner .pro_text_2 h5 {
+        font-size: 17px;
+    }
+
+    .pro_text h4 {
+        font-size: 12px;
+        padding-left: 20px;
+    }
+
+    .pro_text h5 {
+        font-size: 17px;
+        padding-left: 17px;
+    }
+
+    .pro_img .pro_overly a h5 {
+        font-size: 11px;
+    }
+
+    .pro_img .pro_overly a h5 i {
+        margin-left: 5px;
+    }
+
+    /*****============ Header Part ================ ***/
+
+    #test_part {
+        padding-bottom: 163px;
+    }
+
+    .testi_head p {
+        color: #999;
+        font-size: 22px;
+        font-weight: 400;
+        font-family: 'Montserrat Alternates', sans-serif;
+        line-height: 34px;
+        padding: 0 30px;
+    }
+
+    .testi_left_box p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .testi_left_box {
+        padding: 30px 13px 155px 17px;
+    }
+
+    .testi_left_box img {
+        padding-top: 5px;
+    }
+
+    .testi_left_box .testi_ovarly h6 {
+        font-size: 16px;
+    }
+
+    .testi_left_box .testi_ovarly p {
+        font-size: 14px;
+        margin-top: -6px;
+    }
+
+    .testi_ovarly ul li {
+        font-size: 14px;
+    }
+
+    .testi_left_box .testi_ovarly {
+        padding: 20px 20px 20px 20px;
+        right: -30px;
+        bottom: -30px;
+    }
+
+    #test_part ul.slick-dots {
+        bottom: -75px;
+    }
+
+    /*****============ Expert Part ================ ***/
+
+    .project_inner .pro_text_2 h4 {
+        font-size: 12px !important;
+    }
+
+    .project_inner .pro_text_2 h5 {
+        font-size: 17px !important;
+    }
+
+    .pro_text h4 {
+        font-size: 12px !important;
+    }
+
+    .pro_text h5 {
+        font-size: 17px !importan;
+    }
+
+    .expart_head p {
+        font-size: 22px !important;
+    }
+
+    .pro_text h4 {
+        font-size: 16px;
+    }
+
+    .pro_text h5 {
+        font-size: 17px;
+        padding-left: 20px;
+    }
+
+    .project_inner .pro_text_2 h4 {
+        font-size: 16px;
+    }
+
+    .project_inner .pro_text_2 {
+        padding-left: 25px;
+    }
+
+    .project_inner .pro_text_2 h5 {
+        font-size: 14px;
+    }
+
+
+    /*****============ Blog Part ================ ***/
+
+
+    .blog_img .blog_ovarly h5 {
+        font-size: 20px;
+        padding-left: 0px;
+    }
+
+    .blog_img .blog_ovarly a {
+        font-size: 14px;
+        line-height: 40px;
+    }
+
+    .blog_img .blog_ovarly a:hover::after {
+        height: 40px;
+    }
+
+    .blog_img .blog_ovarly {
+        width: 289px;
+        padding: 20px 20px 20px 10px;
+        right: -15px;
+        bottom: -15px;
+    }
+
+    .project_btn a {
+        font-size: 16px;
+        line-height: 48px;
+    }
+
+    .project_btn a:hover::after {
+        height: 48px;
+    }
+
+    /*****============ Footer Part ================ ***/
+
+    #footer_part {
+        padding: 60px 0 37px;
+    }
+
+    .footer_logo {
+        text-align: center;
+    }
+
+    .footer_left .footer_logo img {
+        padding-left: 0px;
+        width: 100px;
+    }
+
+    .footer_copy p {
+        padding-top: 40px;
+        text-align: center;
+    }
+
+    .footer_mid h5 {
+        font-size: 21px;
+        font-weight: 400;
+        padding-bottom: 13px;
+    }
+
+    .footer_mid p {
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 30px;
+    }
+
+    .footer_icon h5 {
+        font-size: 21px;
+        font-weight: 400;
+    }
+
+
+    .footer_icon form {
+        margin-top: 23px;
+    }
+
+    .footer_icon form input {
+        width: 142px;
+        height: 38px;
+    }
+
+    .footer_icon form button {
+        font-size: 14px;
+        padding: 0 13px;
+        height: 37px;
+    }
+
+    .footer_icon h6 {
+        font-size: 21px;
+        font-weight: 400;
+        padding-top: 31px;
+    }
+
+    /*================================================
+                        About Us Page
+    =================================================*/
+
+    .about_text p span {
+        padding-top: 0;
+    }
+
+    .about_more_none02 {
+        display: none !important;
+    }
+
+    #about_more_part {
+        padding: 60px 0;
+    }
+
+    #test_part {
+        padding-bottom: 120px;
+        padding-top: 60px
+    }
+
+    /*================================================
+                        Blog Page Details
+    =================================================*/
+
+    /*** ============= Great Arche Part Start ============**/
+    .great_arche_calender p {
+        padding-top: 10px;
+    }
+
+    .great_arche_like p {
+        padding-top: 10px;
+    }
+
+    .great_arche_text_03 {
+        padding-top: 0px;
+    }
+
+    .great_arche_tag {
+        padding-top: 20px;
+    }
+
+    .blog_none {
+        display: none;
+    }
+
+    #great_arche_part {
+        padding: 94px 0 20px;
+    }
+
+    .comment_box_head p {
+        padding-top: 30px;
+    }
+
+    .comment_box_head form {
+        padding-top: 0px;
+    }
+
+    .comment_box_head form input {
+        width: 347px;
+        padding-left: 10px;
+    }
+
+    .comment_box_head form textarea {
+        width: 98.40%;
+        padding-left: 10px;
+    }
+
+    #comment_box {
+        padding-bottom: 100px;
+    }
+
+    /*================================================
+                       Our Team Part Page
+    =================================================*/
+    #project_part_two {
+        padding: 50px 0;
+    }
+
+    #pagination_part {
+        padding-bottom: 50px;
+    }
+
+    /*================================================
+                       Member Part Page
+    =================================================*/
+
+    .member_phn {
+        display: none;
+    }
+
+    .member_text h6 {
+        line-height: 10px;
+    }
+
+    .member_text p {
+        font-size: 15px;
+        line-height: 22px;
+        padding-top: 10px;
+        padding-bottom: 12px;
+    }
+
+    .member_part_01 ul li a {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+
+    .member_counter .about_img2 {
+        display: flex;
+        text-align: center;
+        justify-content: space-around;
+    }
+
+    .member_counter .about_counter_inner {
+        padding-bottom: 10px;
+        padding-top: 26px;
+    }
+
+    .member_counter .about_counter_last {
+        padding-top: 23px;
+        text-align: center;
+    }
+
+    .member_pera {
+        position: relative;
+    }
+
+    .member_pera:after {
+        position: absolute;
+        content: '';
+        left: 50%;
+        bottom: 0;
+        width: 60px;
+        height: 3px;
+        background: #d9b257;
+        transform: translateX(-50%);
+    }
+
+    #member_about {
+        padding: 80px 0 80px;
+    }
+
+    /*** ================================================
+                    Service Details Page
+    ==================================================***/
+
+    .service_details_overly {
+        width: 600px;
+        padding: 12px 0;
+    }
+
+    /*===================================================================
+                                Recent Project Part Page
+    ====================================================================*/
+    .hoga {
+        padding-top: 40px;
+    }
+
+    .mama {
+        padding-bottom: 20px;
+    }
+
+    /*===================================================================
+                                Contact Us Part Page
+    ====================================================================*/
+    .hogo {
+        display: none;
+    }
+
+    .contact_img a {
+        left: -80px;
+    }
+
+    .contact_text {
+        padding: 30px 0 0px;
+    }
+
+    .contact_inner h5 {
+        padding-top: 30px;
+        padding-left: 10px;
+    }
+
+    .contact_inner form input {
+        width: 100%;
+        margin-left: 10px;
+        margin-right: -30px;
+    }
+
+    .contact_inner form textarea {
+        width: 100%;
+        margin-left: 10px;
+        margin-right: -30px;
+    }
+
+    .contact_inner form button {
+        width: 100%;
+        margin-bottom: 30px;
+        margin-left: 10px;
+    }
+
+
+
+
+}
+
+@media(min-width: 576px) and (max-width:767px) {
+    /*** ====================================
+                    Hope Page
+    =====================================***/
+
+    /*****============ Header Part ================ ***/
+
+    #header_part {
+        display: none;
+    }
+
+    .main_manu {
+        height: 100px;
+    }
+
+    .navbar-brand {
+        width: 47px;
+    }
+
+    .main_manu .navbar-brand img {
+        height: 70px;
+        padding-left: 15px;
+    }
+
+    .main_manu .navbar-brand img {
+        height: 70px;
+    }
+
+    /****================= Banner Part ==================****/
+    .banner_item {
+        padding: 90px 0;
+        z-index: -111;
+    }
+
+    .banner_sm_slider {
+        display: none;
+    }
+
+    .banner_text h2 {
+        font-size: 45px;
+    }
+
+    .banner_text h1 {
+        font-size: 45px;
+    }
+
+    .banner_text a {
+        padding: 18px 10px 10px 12px;
+    }
+
+    .banner_text a::after {
+        bottom: -1px;
+    }
+
+    /****================= About Part ==================****/
+
+    .about_sm_none {
+        display: none !important;
+    }
+
+    .about_text {
+        padding: 48px 0 20px;
+        text-align: center;
+    }
+
+    .about_text h5 {
+        font-size: 25px;
+        padding: 0 90px;
+    }
+
+    .about_text p {
+        padding-right: 10px;
+    }
+
+    .about_counter2 h4 {
+        color: #999999;
+        font-size: 16px;
+        font-weight: 700;
+        font-family: 'Montserrat Alternates', sans-serif;
+    }
+
+    .about_counter2 h4 span {
+        color: #d9b257;
+        font-size: 35px;
+        font-weight: 700;
+        font-family: 'Montserrat Alternates', sans-serif;
+    }
+
+    .last {
+        position: relative;
+        padding-right: 26px;
+    }
+
+    .last:after {
+        position: absolute;
+        content: '%';
+    }
+
+    .all_btn {
+        color: #222222;
+        font-size: 20px;
+        font-weight: 500;
+        font-family: 'Montserrat Alternates', sans-serif;
+        position: relative;
+        line-height: 48px;
+        padding: 0 18px;
+        margin-top: 10px;
+        z-index: 1;
+        margin-bottom: 48px;
+        margin-top: 30px;
+    }
+
+    .all_btn:hover {
+        color: #fff;
+    }
+
+    .all_btn:after {
+        position: absolute;
+        content: '';
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 3px;
+        background: #d9b257;
+        z-index: -1;
+        transition: all linear .4s;
+        -moz-transition: all linear .4s;
+        -o-transition: all linear .4s;
+        -ms-transition: all linear .4s;
+        -webkit-transition: all linear .4s;
+    }
+
+    .all_btn:hover:after {
+        height: 48px;
+    }
+
+    /****================= Service Part ==================****/
+
+    #service_part {
+        padding: 50px 0 120px;
+    }
+
+    .service_head p {
+        font-size: 20px;
+        padding: 0 73px;
+    }
+
+    .service_none {
+        display: none;
+    }
+
+    .mv_ser_over {
+        position: relative;
+    }
+
+    .mv_ser_over img {
+        margin-left: 16px;
+        margin-top: 14px;
+    }
+
+    .mv_ser_overly {
+        position: absolute;
+        right: -36px;
+        bottom: -23px;
+        width: 400px;
+        border: 1px solid #d9b257;
+        background: #f5f5f5;
+        text-align: right;
+        padding: 28px;
+    }
+
+    .mv_ser_overly h5 {
+        color: #d9b257;
+        font-size: 16px;
+        font-weight: 500;
+        font-family: 'Montserrat Alternates', sans-serif;
+    }
+
+    .mv_ser_overly p {
+        color: #999999;
+        font-size: 24px;
+        font-weight: 400;
+        font-family: 'Lato', sans-serif;
+    }
+
+    .mv_ser_overly a {
+        color: #222222;
+        font-size: 20px;
+        font-weight: 500;
+        font-family: 'Montserrat Alternates', sans-serif;
+        position: relative;
+        line-height: 40px;
+        padding: 0 18px;
+        z-index: 1;
+        margin-top: -10px;
+    }
+
+    .mv_ser_overly a:hover {
+        color: #fff;
+    }
+
+    .mv_ser_overly a:after {
+        position: absolute;
+        content: '';
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 3px;
+        background: #d9b257;
+        z-index: -1;
+        transition: all linear .4s;
+        -moz-transition: all linear .4s;
+        -o-transition: all linear .4s;
+        -ms-transition: all linear .4s;
+        -webkit-transition: all linear .4s;
+    }
+
+    .mv_ser_overly a:hover:after {
+        height: 40px;
+    }
+
+    #service_part ul.slick-dots {
+        bottom: -85px;
+    }
+
+
+    /** =============== Project Part ===============**/
+
+    #project_part {
+        padding: 48px 0;
+    }
+
+    .project_head p {
+        font-size: 20px;
+        padding: 0 70px;
+    }
+
+    .pera {
+        display: none;
+    }
+
+    .project_inner .pro_text_2 {
+        padding-left: 0px;
+    }
+
+    .project_btn a {
+        font-size: 18px;
+        line-height: 48px;
+    }
+
+    .project_btn a:hover::after {
+        height: 48px;
+    }
+
+    .pro_img .pro_overly a h5 i {
+        margin-left: 4px;
+    }
+
+    /** ============= Testimonial Part ============== **/
+
+    #test_part {
+        padding-bottom: 87px;
+    }
+
+    .testi_head p {
+        font-size: 20px;
+        padding: 0 90px;
+    }
+
+    .testi_none_mv {
+        display: none;
+    }
+
+    .testi_left_box {
+        padding: 30px 20px 30px 20px;
+        margin-top: 30px;
+    }
+
+    .testi_left_box p {
+        font-size: 17px;
+    }
+
+    .testi_left_box .testi_ovarly {
+        width: 250px;
+        right: -15px;
+        bottom: -15px;
+    }
+
+    #test_part ul.slick-dots {
+        bottom: -54px;
+    }
+
+    /** =============== Expert Part ============= **/
+
+    #expart_part {
+        padding: 48px 0;
+    }
+
+    .expart_head p {
+        font-size: 20px;
+        padding: 0 70px;
+    }
+
+    .expert_mv {
+        display: none;
+    }
+
+    /** ============= Blog Part ===============**/
+
+    #blog_part {
+        padding: 48px 0;
+    }
+
+    .blog_img .blog_ovarly p {
+        font-size: 12px;
+    }
+
+    .blog_img .blog_ovarly h5 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .blog_img .blog_ovarly {
+        width: 246px;
+        padding: 20px 13px 20px 10px;
+        right: -16px;
+        bottom: -16px;
+    }
+
+    .blog_img .blog_ovarly a {
+        font-size: 16px;
+        line-height: 38px;
+    }
+
+    .blog_img .blog_ovarly a:hover::after {
+        height: 38px;
+    }
+
+    /*** ============= Footer Part ============**/
+
+    #footer_part {
+        padding: 10px 0;
+    }
+
+    .footer_logo {
+        text-align: center;
+    }
+
+    .footer_left .footer_logo img {
+        padding-left: 0px;
+    }
+
+    .footer_copy p {
+        font-size: 14px;
+        padding-top: 10px;
+        text-align: center;
+        border-bottom: 1px solid #fff;
+        padding-bottom: 15px;
+    }
+
+    .footer_mid h5 {
+        font-size: 24px;
+        font-weight: 400;
+        padding-bottom: 10px;
+        margin-top: -30px;
+    }
+
+    .footer_mid p {
+        font-size: 14px;
+        padding-left: 40px;
+        margin-bottom: 23px;
+    }
+
+    .footer_mid p i {
+        font-size: 22px;
+    }
+
+    .footer_icon h5 {
+        font-size: 21px;
+        margin-top: -29px;
+        font-weight: 400;
+        margin-bottom: -30px;
+    }
+
+    .footer_icon form input {
+        width: 123px;
+        background: transparent;
+        border: 0;
+        border: 1px solid #37301d;
+        padding-left: 15px;
+        height: 35px;
+        color: #fff;
+    }
+
+    .footer_icon form button {
+        font-size: 14px;
+        padding: 0 13px;
+        height: 35px;
+        margin-left: -4px;
+    }
+
+    .footer_icon form input::placeholder {
+        font-size: 13px;
+        padding-left: 0;
+    }
+
+    .footer_icon h6 {
+        font-size: 24px;
+        padding-top: 16px;
+    }
+
+    .footer_icon h6 {
+        font-size: 22px;
+        font-weight: 400;
+        padding-top: 16px;
+    }
+
+    .footer_icon ul {
+        padding-top: 7px;
+    }
+
+    .footer_icon p {
+        font-size: 13px;
+        padding-top: 3px;
+        padding-bottom: 20px;
+    }
+
+    .about_more_img01 {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    .about_more_img02 {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    /*================================================
+                        About Us Page
+    =================================================*/
+
+    .about_more_none {
+        display: none;
+    }
+
+    #about_more_part {
+        padding: 0px 0;
+    }
+
+    /*================================================
+                        Blog Page
+    =================================================*/
+
+    #blog_part_02 {
+        padding-bottom: 50px;
+    }
+
+    #pagination_part {
+        padding-bottom: 50px;
+    }
+
+    /*================================================
+                        Blog Page Details
+    =================================================*/
+
+    /*** ============= Great Arche Part Start ============**/
+
+    #great_arche_part {
+        padding: 60px 0 60px;
+    }
+
+    .great_arche_like p span {
+        padding-left: 12px;
+    }
+
+    .great_arche_img_middl p {
+        font-size: 18px;
+        padding: 0 10px;
+    }
+
+    .great_arche_img_middl {
+        padding: 20px 0;
+    }
+
+    .great_arche_img_text p span {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .great_arche_img_text02 p {
+        padding-top: 20px;
+    }
+
+    .great_arche_text_03 {
+        padding-top: 10px;
+    }
+
+    .great_arche_tag {
+        padding-top: 20px;
+    }
+
+    .tag_none {
+        display: none;
+    }
+
+    #great_arche_part {
+        padding: 0px 0 0px;
+    }
+
+    .comment_box_head form {
+        padding-top: 0px;
+    }
+
+    .comment_box_head {
+        padding-top: 40px;
+    }
+
+    .comment_box_head form input {
+        width: 100%;
+        padding-left: 10px;
+        margin-top: 15px;
+    }
+
+    .comment_box_head form textarea {
+        width: 100%;
+        padding-left: 10px;
+    }
+
+    #comment_box {
+        padding-bottom: 60px;
+    }
+
+    .great_arche_text h2 {
+        padding-top: 50px;
+    }
+
+    .comment_box_head {
+        padding-top: 20px;
+    }
+
+    .comment_box_head form button {
+        width: 100%;
+    }
+
+    /*================================================
+                       Our Team Part Page
+    =================================================*/
+
+    #project_part_two {
+        padding: 60px 0 30px;
+    }
+
+    .pro_text h5 {
+        padding-bottom: 25px;
+    }
+
+    /*================================================
+                       Member Part Page
+    =================================================*/
+    .mara {
+        display: none;
+    }
+
+    .member_phn {
+        display: block;
+    }
+
+    .member_part_01 {
+        display: none;
+    }
+
+    .member_phn .about_text {
+        padding: 0px 0 0px;
+    }
+
+    .member_phn .about_counter_inner h3 span {
+        font-size: 40px;
+    }
+
+    .member_phn .about_counter_inner h3 {
+        font-size: 20px;
+    }
+
+    .member_phn .about_counter_inner p {
+        font-size: 20px;
+    }
+
+    .member_phn .about_counter_inner {
+        padding-bottom: 15px;
+    }
+
+    .member_phn .about_counter_sec h3 span {
+        font-size: 40px;
+    }
+
+    .member_phn .about_counter_sec h3 {
+        font-size: 20px;
+    }
+
+    .member_phn .about_counter_sec p {
+        font-size: 20px;
+    }
+
+    .member_phn .about_counter_sec {
+        padding: 0px 0 16px;
+    }
+
+    .member_phn .about_counter_last h3 span {
+        font-size: 40px;
+    }
+
+    .member_phn .about_counter_last h3 {
+        font-size: 20px;
+    }
+
+    .member_phn .about_counter_last p {
+        font-size: 20px;
+    }
+
+    .hudai {
+        padding-top: 40px !important;
+    }
+
+    .hudai:after {
+        display: none;
+    }
+
+    #member_about {
+        padding: 70px 0 35px;
+    }
+
+    /*===================================================================
+                                Service Details Part Page
+    ====================================================================*/
+
+    .service_details_overly h5 {
+        font-size: 22px;
+        line-height: 26px;
+        margin-top: -17px;
+    }
+
+    .service_details_overly {
+        width: 476px;
+        padding: 10px 0;
+    }
+
+    #service_details {
+        padding: 70px 0 50px;
+    }
+
+    .service_details_text {
+        padding-top: 100px;
+    }
+
+    /*===================================================================
+                                Recent Project Part Page
+    ====================================================================*/
+
+    .mama {
+        padding-bottom: 55px !important;
+    }
+
+    /*===================================================================
+                                Contact Us Part Page
+    ====================================================================*/
+
+    .contact_img a {
+        left: -78px;
+    }
+
+    .contact_text {
+        padding: 20px 0 0px;
+    }
+
+    .contact_inner h5 {
+        padding-top: 25px;
+    }
+
+    .contact_inner form input {
+        width: 100%;
+    }
+
+    .contact_inner form textarea {
+        width: 100%;
+        margin-top: 70px;
+    }
+
+    .contact_inner form button {
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width:575px) {
+
+
+    /*********** Home Page **************/
+    /** Manu Part **/
+
+    .main_manu #navbarSupportedContent {
+        z-index: 9999;
+    }
+
+    .main_manu .navbar-nav {
+        margin-right: 0px !important;
+    }
+
+    #header_part {
+        display: none;
+    }
+
+    .main_manu {
+        height: 80px;
+    }
+
+    .navbar-brand {
+        width: 47px;
+    }
+
+    .main_manu .navbar-brand img {
+        height: 70px;
+        padding-left: 15px;
+    }
+
+    .main_manu .navbar-brand img {
+        height: 70px;
+    }
+
+    .navbar-toggler:focus {
+        outline: 0;
+    }
+
+    .navbar-nav {
+        background: #fff;
+        border-top: 1px solid #e5b456;
+        z-index: 11111;
+    }
+
+    .navbar-toggler {
+        color: #d9b257;
+    }
+
+    .main_manu .navbar-nav {
+        margin-left: 0;
+    }
+
+    .main_menu .navbar-nav .nav-item a {
+        font-size: 14px;
+        line-height: 50px;
+    }
+
+    .main_menu .form-inline {
+        display: none;
+    }
+
+    .menu_fix .navbar-nav .nav-item .nav-link {
+        line-height: 50px;
+    }
+
+
+    .main_manu button {
+        outline: 0;
+    }
+
+    /****========= Banner Part=============== ****/
+    .banner_item {
+        padding: 90px 0;
+        z-index: -111;
+    }
+
+    .banner_sm_slider {
+        display: none;
+    }
+
+    .banner_text h2 {
+        font-size: 31px;
+    }
+
+    .banner_text h1 {
+        font-size: 35px;
+    }
+
+    .banner_text a {
+        padding: 18px 10px 10px 12px;
+    }
+
+    .banner_text a::after {
+        bottom: -1px;
+    }
+
+    /******========= About Part ===========*****/
+
+    .about_img2 {
+        display: none;
+    }
+
+    .about_text {
+        padding: 50px 0 65px;
+    }
+
+    .about_text h5 {
+        font-size: 20px;
+        padding: 0px 30px 0px 0;
+        line-height: 26px;
+    }
+
+    .about_text h6 {
+
+        padding-bottom: 0px;
+    }
+
+    .about_counter2 h4 span {
+        color: #d9b257;
+        font-size: 20px;
+        font-weight: 700;
+        font-family: 'Montserrat Alternates', sans-serif;
+        display: block;
+        text-align: center;
+    }
+
+    .about_counter2 h4 {
+        color: #999999;
+        font-size: 14px;
+        font-weight: 700;
+        font-family: 'Montserrat Alternates', sans-serif;
+        text-align: center;
+    }
+
+    .about_text p {
+        margin-bottom: -20px;
+    }
+
+    .last {
+        position: relative;
+    }
+
+    .last:after {
+        position: absolute;
+        content: '%';
+    }
+
+    .all_btn {
+        color: #222222;
+        font-size: 16px;
+        font-weight: 500;
+        font-family: 'Montserrat Alternates', sans-serif;
+        position: relative;
+        line-height: 48px;
+        padding: 0 18px;
+        margin-top: 10px;
+        z-index: 1;
+        margin-bottom: 48px;
+    }
+
+    .all_btn:hover {
+        color: #fff;
+    }
+
+    .all_btn:after {
+        position: absolute;
+        content: '';
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 3px;
+        background: #d9b257;
+        z-index: -1;
+        transition: all linear .4s;
+        -moz-transition: all linear .4s;
+        -o-transition: all linear .4s;
+        -ms-transition: all linear .4s;
+        -webkit-transition: all linear .4s;
+    }
+
+    .all_btn:hover:after {
+        height: 48px;
+    }
+
+    /********* Service part ********/
+
+    #service_part {
+        padding: 50px 0 95px;
+    }
+
+    .service_head p {
+        font-size: 20px;
+    }
+
+    .service_slider {
+        display: none;
+    }
+
+    .mv_ser_over {
+        position: relative;
+    }
+
+    .mv_ser_overly {
+        position: absolute;
+        width: 216px;
+        padding: 10px 10px 10px 20px;
+        border: 1px solid #D9B257;
+        background: #F5F5F5;
+        right: -39px;
+        bottom: -22px;
+        text-align: right;
+    }
+
+    .mv_ser_overly h5 {
+        color: #d9b257;
+        font-size: 13px;
+        font-weight: 500;
+        font-family: 'Montserrat Alternates', sans-serif;
+        margin-bottom: 2px;
+    }
+
+    .mv_ser_overly p {
+        color: #999999;
+        font-size: 16px;
+        font-weight: 400;
+        font-family: 'Lato', sans-serif;
+        line-height: 20px;
+    }
+
+
+    .mv_ser_overly a {
+        color: #222222;
+        font-size: 14px;
+        font-weight: 500;
+        font-family: 'Montserrat Alternates', sans-serif;
+        position: relative;
+        line-height: 34px;
+        padding: 0 14px;
+        z-index: 1;
+        margin-top: -5px;
+    }
+
+    .mv_ser_overly a:hover {
+        color: #fff;
+    }
+
+    .mv_ser_overly a:after {
+        position: absolute;
+        content: '';
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 3px;
+        background: #d9b257;
+        z-index: -1;
+        transition: all linear .4s;
+        -moz-transition: all linear .4s;
+        -o-transition: all linear .4s;
+        -ms-transition: all linear .4s;
+        -webkit-transition: all linear .4s;
+    }
+
+    .mv_ser_overly a:hover:after {
+        height: 34px;
+    }
+
+    .ser_one {
+        font-size: 14px !important;
+    }
+
+    .mv_ser_over img {
+        margin-left: 17px;
+    }
+
+    #service_part ul.slick-dots {
+        position: absolute;
+        bottom: -60px;
+        display: flex;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    /** ============= Project Part ========== **/
+
+    #project_part {
+        padding: 50px 0;
+    }
+
+    .project_head p {
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: -10px;
+    }
+
+    .pera {
+        display: none;
+    }
+
+    .project_inner .pro_text_2 {
+        padding-top: 30px;
+        padding-left: 0;
+        padding-bottom: 0;
+    }
+
+
+    .project_btn a {
+        color: #222222;
+        font-size: 16px;
+        font-weight: 500;
+        font-family: 'Montserrat Alternates', sans-serif;
+        position: relative;
+        line-height: 40px;
+        padding: 0 15px;
+        margin-top: 10px;
+        z-index: 1;
+        margin-top: 20px;
+    }
+
+    .all_btn:hover {
+        color: #fff;
+    }
+
+    .project_btn a:after {
+        position: absolute;
+        content: '';
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 3px;
+        background: #d9b257;
+        z-index: -1;
+        transition: all linear .4s;
+        -moz-transition: all linear .4s;
+        -o-transition: all linear .4s;
+        -ms-transition: all linear .4s;
+        -webkit-transition: all linear .4s;
+    }
+
+    .project_btn a:hover:after {
+        height: 40px;
+    }
+
+    /** ========== Testimonial Part ========== ***/
+
+    #test_part {
+        padding-bottom: 113px;
+    }
+
+    #test_part {
+        /* padding-bottom: 195px; */
+        padding-top: 0px;
+    }
+
+    .testi_head p {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 0;
+    }
+
+    .testi_none_mv {
+        display: none;
+    }
+
+    .testi_left_box {
+        padding: 10px 0px 100px 20px;
+        margin-top: 15px;
+    }
+
+    .testi_left_box p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .testi_left_box img {
+        padding-top: 0px;
+    }
+
+    .testi_left_box .testi_ovarly {
+        width: 230px;
+        padding: 10px 0px 10px 25px;
+        right: -15px;
+        bottom: -38px;
+    }
+
+    .testi_left_box .testi_ovarly h6 {
+        font-size: 16px;
+    }
+
+    .testi_left_box .testi_ovarly p {
+        font-size: 13px;
+        margin-top: -5px;
+    }
+
+    .testi_left_box ul li i {
+        font-size: 14px;
+    }
+
+    #test_part ul.slick-dots {
+        bottom: -80px;
+    }
+
+    /**=========== Expert Part ==============**/
+
+    #expart_part {
+        padding: 50px 0;
+    }
+
+    .expart_head p {
+        font-size: 20px;
+        line-height: 24px;
+        padding: 0 0px;
+    }
+
+    .expert_mv {
+        display: none;
+    }
+
+    /** ============== Blog Pert ===============**/
+
+    #blog_part {
+        padding: 50px 0;
+    }
+
+    .testi_head p {
+        font-size: 20px;
+        line-height: 24px;
+        padding-bottom: 15px;
+    }
+
+    .blog_mar {
+        display: none;
+    }
+
+    .blog_img .blog_ovarly {
+        width: 265px;
+        padding: 20px 20px 20px 17px;
+        right: -15px;
+        bottom: -15px;
+    }
+
+    .blog_img .blog_ovarly p {
+        font-size: 12px;
+    }
+
+    .blog_img .blog_ovarly h5 {
+        font-size: 13px;
+    }
+
+    .blog_img .blog_ovarly a {
+        font-size: 14px;
+        line-height: 36px;
+    }
+
+    .blog_img .blog_ovarly a:hover::after {
+        height: 36px;
+    }
+
+    .blog_mv {
+        margin-top: 50px;
+    }
+
+    /** ============ Footer Part ============= **/
+
+    #footer_part {
+        padding: 50px 0 40px;
+    }
+
+    .footer_logo {
+        text-align: center;
+    }
+
+    .footer_left .footer_logo img {
+        padding-left: 0px;
+    }
+
+    .footer_copy p {
+        padding-top: 15px;
+        text-align: center;
+        border-bottom: 1px solid #fff;
+        padding-bottom: 20px;
+    }
+
+    .footer_left {
+        padding: 0;
+    }
+
+    .footer_mid h5 {
+        padding-bottom: 10px;
+    }
+
+    .footer_mid p {
+        font-size: 14px;
+        margin-bottom: 28px;
+    }
+
+    .footer_mid p i {
+        font-size: 25px;
+    }
+
+    .footer_icon h5 {
+        padding-top: 30px;
+    }
+
+    .footer_icon form input {
+        width: 173px;
+        padding-left: 5px;
+        height: 38px;
+    }
+
+    .footer_icon form button {
+        height: 38px;
+    }
+
+    .footer_icon form {
+        margin-top: 28px;
+    }
+
+    .footer_icon h6 {
+        padding-top: 30px;
+    }
+
+    /*================================================
+                        About Us Page
+    =================================================*/
+
+    /*===================== About Banner ============*/
+
+    .about_text_about h1 {
+        font-size: 30px;
+    }
+
+    .about_text_about p {
+        font-size: 14px;
+    }
+
+    /*===================== About Banner ============*/
+
+    #about_more_part {
+        padding: 0px 0;
+    }
+
+    .about_more_none {
+        display: none;
+    }
+
+    .about_more_img01 {
+        padding-bottom: 40px;
+    }
+
+    .about_more_img02 {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+
+    /*================================================
+                        Blog Page
+    =================================================*/
+
+    #blog_part_02 {
+        padding-bottom: 50px;
+    }
+
+    #pagination_part .main_pagination ul li a {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 13px;
+    }
+
+    #pagination_part {
+        padding-bottom: 35px;
+    }
+
+    #pagination_part .main_pagination ul {
+        justify-content: center;
+    }
+
+    /*================================================
+                        Blog Page Details
+    =================================================*/
+
+    #about_part_about {
+        padding: 50px 0;
+    }
+
+    #great_arche_part {
+        padding: 50px 0 73px;
+    }
+
+    #great_arche_part {
+        padding: 50px 0 0px;
+    }
+
+    .great_arche_text h2 {
+        font-size: 19px;
+        line-height: 26px;
+    }
+
+    .great_arche_calender p {
+        font-size: 12px;
+        line-height: 26px;
+    }
+
+    .great_arche_like p {
+        font-size: 12px;
+        line-height: 26px;
+    }
+
+    .great_arche_like p span {
+        padding-left: 0;
+    }
+
+    .great_arche_like p span i {
+        padding-left: 10px;
+    }
+
+    .great_arche_inner {
+        padding-bottom: 0px;
+    }
+
+    .great_arche_img_text p {
+        font-size: 15px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .great_arche_img_text p span {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .great_arche_img_middl {
+        padding: 16px 0 10px;
+    }
+
+    .great_arche_img_middl p {
+        font-size: 16px;
+        padding: 0 10px;
+    }
+
+    .great_arche_img_text02 p {
+        font-size: 15px;
+        padding-top: 23px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .great_arche_text_03 {
+        padding-top: 7px;
+    }
+
+    .great_arche_text_03 p {
+        font-size: 15px;
+        padding: 0 16px;
+    }
+
+    .great_arche_tag {
+        padding-top: 10px;
+    }
+
+    .great_arche_tag ul li p {
+        font-size: 16px;
+    }
+
+    .tag_none {
+        display: none;
+    }
+
+    .great_arche_tag_icon ul li a i {
+        font-size: 13px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        margin-top: 4px;
+    }
+
+    .comment_box_img {
+        padding-top: 0px;
+    }
+
+    .comment_box_comments {
+        padding-top: 0px;
+    }
+
+    .comment_box_comments h6 span {
+        float: inherit;
+        display: block;
+    }
+
+    .comment_box_comments h5 {
+        padding-bottom: 15px;
+    }
+
+    .comment_box_head form {
+        padding-top: 0px;
+    }
+
+    .comment_box_head p {
+        padding-top: 10px;
+    }
+
+    .comment_box_head form input {
+        width: 100%;
+        height: 32px;
+        margin-right: 0px;
+        margin-bottom: 12px;
+        padding-left: 7px;
+    }
+
+    .comment_box_head form textarea {
+        width: 100%;
+        margin-top: 0px;
+        padding-left: 7px;
+        padding-top: 5px;
+    }
+
+    .comment_box_head form button {
+        font-size: 18px;
+        width: 100%;
+        padding: 5px 0;
+    }
+
+    #comment_box {
+        padding-bottom: 30px;
+    }
+
+    /*================================================
+                       Our Team Part Page
+    =================================================*/
+
+
+    #project_part_two {
+        padding: 50px 0 10px;
+    }
+
+    .pro_text h5 {
+        padding-bottom: 25px;
+    }
+
+    .project_inner .pro_text_2 h5 {
+        padding-bottom: 25px;
+    }
+
+    .project_inner {
+        padding-top: 0px;
+    }
+
+    #project_two_part {
+        padding: 0px 0 10px;
+    }
+
+    /*================================================
+                       Member Part Page
+    =================================================*/
+
+    .mara {
+        display: none;
+    }
+
+    .member_part_01 ul {
+        right: 50%;
+        top: 100%;
+        transform: translateX(50%);
+        display: flex;
+        margin-top: -22px;
+        z-index: 99;
+    }
+
+    .member_part_01 ul li a {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        margin-right: 10px;
+    }
+
+    .member_phn .about_text h5 {
+        color: #d9b257 !important;
+    }
+
+    .pakna p {
+        margin-bottom: -35px;
+    }
+
+    .member_phn .about_counter_inner h3 span {
+        font-size: 30px;
+    }
+
+    .member_phn .about_counter_inner h3 {
+        font-size: 18px;
+    }
+
+    .member_phn .about_counter_inner p {
+        font-size: 18px;
+    }
+
+    .member_phn .about_counter_sec h3 span {
+        font-size: 30px;
+    }
+
+    .member_phn .about_counter_sec p {
+        font-size: 18px;
+    }
+
+    .member_phn .about_counter_sec h3 {
+        font-size: 18px;
+    }
+
+    .member_phn .about_counter_sec {
+        padding: 0px 0 12px;
+    }
+
+    .member_phn .about_counter_inner {
+        padding-bottom: 12px;
+    }
+
+    .hudai {
+        padding-top: 30px !important;
+    }
+
+    .member_phn .about_counter_last h3 span {
+        font-size: 30px;
+    }
+
+    .member_phn .about_counter_last h3 {
+        font-size: 18px;
+    }
+
+    .member_phn .about_counter_last p {
+        font-size: 18px;
+    }
+
+    .member_phn .about_counter_last {
+        padding-top: 30px;
+    }
+
+    .hudai:after {
+        display: none;
+    }
+
+    .pera_top {
+        padding-top: 20px;
+    }
+
+    #member_about {
+        padding: 50px 0 20px;
+    }
+
+    .member_phn {
+        display: block;
+    }
+
+    /*===================================================================
+                                404 Part Page
+    ====================================================================*/
+
+    #banner_404 {
+        padding: 100px 0 237px;
+    }
+
+    .banner_404_inner h5 {
+        color: #fff;
+        font-size: 40px;
+        font-weight: 200;
+        font-family: 'Montserrat Alternates', sans-serif;
+        padding: 45px 0 15px 0;
+    }
+
+    /*===================================================================
+                                Service Details Part Page
+    ====================================================================*/
+
+    #service_details {
+        padding: 50px 0 30px;
+    }
+
+    .service_details_overly p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .service_details_overly h5 {
+        font-size: 18px;
+        line-height: 24px;
+        margin-top: -13px;
+    }
+
+    .service_details_overly {
+        width: 287px;
+        padding: 10px 0;
+    }
+
+    .service_details_text {
+        padding-top: 80px;
+    }
+
+    .service_details_text p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .ser_ganja {
+        padding: 0 !important;
+    }
+
+    .great_arche_text_03 p {
+        font-size: 13px;
+    }
+
+    .testi_head h5 {
+        padding-top: 50px;
+    }
+
+    /*===================================================================
+                                Recent Project Part Page
+    ====================================================================*/
+
+    .mama {
+        padding-bottom: 80px !important;
+    }
+
+
+    /*===================================================================
+                                Contact Us Part Page
+    ====================================================================*/
+
+    .contact_img a {
+        left: -45px;
+    }
+
+    .contact_text {
+        padding: 10px 0 0px;
+    }
+
+    .contact_text h5 {
+        font-size: 20px;
+        padding-bottom: 0px;
+    }
+
+    .contact_text p {
+        font-size: 14px;
+    }
+
+    .contact_inner h5 {
+        font-size: 20px;
+        padding-bottom: 0px;
+        padding-top: 10px;
+    }
+
+    .contact_inner form input {
+        width: 96.72%;
+    }
+
+    .contact_inner form textarea {
+        width: 96.72%;
+        margin-top: 50px;
+    }
+
+    .contact_inner form button {
+        margin-bottom: 25px;
+    }
+
+
+
+
+
+
+}
